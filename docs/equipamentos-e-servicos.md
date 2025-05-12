@@ -1,5 +1,7 @@
 # Equipamentos e Serviços
 
+## Miscelâneas e Utensílios
+
 Esta seção consiste em uma estrutura de equipamentos clássicos, com uma lista organizada em miscelâneas e utensílios, para permitir uma distribuição objetiva no cálculo de carga. Esta lista está ordenada sob o preço em peça de ouro (po), que vale dez vezes a peça de prata (pp) ou cem vezes a peça de cobre (pc).
 
 **Equipamento inicial:** 3d6 x 10 po
@@ -9,8 +11,6 @@ Personagens iniciantes devem montar sua lista de equipamentos, que corresponde a
 **Miscelânea:** Por praticidade a massa desse tipo de equipamento é simplificada na carga da mochila (80 cn) ou da bolsa de cinto (25 cn). Caso seja necessário, faça por aproximação de massa comparado a moedas (ex. uma tocha pesa 1 cn).
 
 **Utensílios:** São os demais equipamentos que não cabem em uma mochila, por isso possuem massa registrada separadamente. Para intercâmbios, avalie caso a caso. A rede, por exemplo, poderia ser colocada na mochila no lugar de duas miscelâneas, mas uma escada não.
-
-## Miscelâneas e Utensílios
 
 ### Tabela de Miscelâneas
 
