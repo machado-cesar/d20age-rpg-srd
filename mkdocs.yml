@@ -1,16 +1,24 @@
 site_name: d20age RPG SRD
+nav:
+  - Início: index.md
+  - Personagens:
+      - Arcanista: personagens/arcanista.md
+      - Combatente: personagens/combatente.md
+      - Especialista: personagens/especialista.md
+      - Magista: personagens/magista.md
+  - Equipamentos e Serviços: equipamentos-e-servicos.md
 theme:
   name: material
   features:
-    - navigation.tabs
-    - navigation.sections
+    # - navigation.tabs
+    # - navigation.sections
     - toc.integrate
-    - seracth.suggest
+    - search.suggest
     - search.highlight
     - content.tabs.link
   language: pt
   palette:
-    - shceme: default
+    - scheme: default
       toggle:
         icon: material/toggle-switch-off-outline
         name: Modo Escuro
