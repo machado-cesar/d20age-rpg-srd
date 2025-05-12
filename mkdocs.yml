@@ -8,7 +8,7 @@ theme:
     - seracth.suggest
     - search.highlight
     - content.tabs.link
-  language: pt-br
+  language: pt
   palette:
     - shceme: default
       toggle:
