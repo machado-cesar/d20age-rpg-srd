@@ -20,13 +20,13 @@ theme:
   palette:
     - scheme: default
       toggle:
-        icon: material/toggle-switch-off-outline
+        icon: material/weather-night
         name: Modo Escuro
       primary: teal
       accent: purple
     - scheme: slate
       toggle:
-        icon: material/toggle-switch
+        icon: material/white-balance-sunny
         name: Modo Claro
       primary: teal
       accent: lime
