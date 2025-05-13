@@ -15,7 +15,7 @@ nav:
     - Animais: equipamentos-e-servicos/animais.md
     - Veículos: equipamentos-e-servicos/veiculos.md
     - Máquinas de Guerra: equipamentos-e-servicos/maquinas-de-guerra.md
-    - Auziliares e Profissionais: equipamentos-e-servicos/auxiliares-e-profissionais.md
+    - Auxiliares e Profissionais: equipamentos-e-servicos/auxiliares-e-profissionais.md
 theme:
   name: material
   features:
