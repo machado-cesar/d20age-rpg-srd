@@ -2,11 +2,20 @@ site_name: d20age RPG SRD
 nav:
   - Início: index.md
   - Personagens:
-      - Arcanista: personagens/arcanista.md
-      - Combatente: personagens/combatente.md
-      - Especialista: personagens/especialista.md
-      - Magista: personagens/magista.md
-  - Equipamentos e Serviços: equipamentos-e-servicos.md
+    - Arcanista: personagens/arcanista.md
+    - Combatente: personagens/combatente.md
+    - Especialista: personagens/especialista.md
+    - Magista: personagens/magista.md
+  - Equipamentos e Serviços:
+    - Miscelâneas e Utensílios: equipamentos-e-servicos/miscelaneas-e-utensilios.md
+    - Armaduras e Escudos: equipamentos-e-servicos/armaduras-e-escudos.md
+    - Armas e Munições: equipamentos-e-servicos/armas-e-municoes.md
+    - Ervas Medicinais: equipamentos-e-servicos/ervas-medicinais.md
+    - Estalagens e Tabernas: equipamentos-e-servicos/estalagens-e-tabernas.md
+    - Animais: equipamentos-e-servicos/animais.md
+    - Veículos: equipamentos-e-servicos/veiculos.md
+    - Máquinas de Guerra: equipamentos-e-servicos/maquinas-de-guerra.md
+    - Auziliares e Profissionais: equipamentos-e-servicos/auxiliares-e-profissionais.md
 theme:
   name: material
   features:
