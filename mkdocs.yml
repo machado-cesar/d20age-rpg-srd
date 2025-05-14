@@ -101,30 +101,30 @@ nav:
       - Regras: manual-de-criaturas/regras.md
       - Bestas:
           - Abelhas Assassinas: manual-de-criaturas/bestas/abelhas-assassinas.md
-      #     - Animais de Montaria:
-      #     - Aves de Rapina:
-      #     - Aranhas Gigantes:
-      #     - Babuínos da Rocha:
-      #     - Besouros:
-      #     - Cães:
-      #     - Caranguejo Gigante:
-      #     - Centopeia Gigante:
-      #     - Cobras:
-      #     - Crocodilos:
-      #     - Cupim Gigante:
-      #     - Enxame de Insetos:
-      #     - Escorpião Gigante:
-      #     - Formiga Gigante:
-      #     - Gralhas:
-      #     - Javali:
-      #     - Lobos:
-      #     - Morcegos:
-      #     - Polvo Gigante:
-      #     - Ratos:
-      #     - Sapo Gigante:
-      #     - Sanguessuga Gigante:
-      #     - Tubarões:
-      #     - Ursos:              
+          - Animais de Montaria: manual-de-criaturas/bestas/animais-de-montaria.md
+          - Aranhas Gigantes: manual-de-criaturas/bestas/aranhas-gigantes.md
+          - Aves de Rapina: manual-de-criaturas/bestas/aves-de-rapina.md
+          - Babuínos da Rocha: manual-de-criaturas/bestas/babuinos-da-rocha.md
+          - Besouros: manual-de-criaturas/bestas/besouros.md
+          - Cães: manual-de-criaturas/bestas/caes.md
+          - Caranguejo Gigante: manual-de-criaturas/bestas/caranguejo-gigante.md
+          - Centopeia Gigante: manual-de-criaturas/bestas/centopeia-gigante.md
+          - Cobras: manual-de-criaturas/bestas/cobras.md
+          - Crocodilos: manual-de-criaturas/bestas/crocodilos.md
+          - Cupim Gigante: manual-de-criaturas/bestas/cupim-gigante.md
+          - Enxame de Insetos: manual-de-criaturas/bestas/enxame-de-insetos.md
+          - Escorpião Gigante: manual-de-criaturas/bestas/escorpiao-gigante.md
+          - Formigas Gigantes: manual-de-criaturas/bestas/formigas-gigantes.md
+          - Gralhas: manual-de-criaturas/bestas/gralhas.md
+          - Javali: manual-de-criaturas/bestas/javali.md
+          - Lobos: manual-de-criaturas/bestas/lobos.md
+          - Morcegos: manual-de-criaturas/bestas/morcegos.md
+          - Polvo Gigante: manual-de-criaturas/bestas/polvo-gigante.md
+          - Ratos: manual-de-criaturas/bestas/ratos.md
+          - Sapo Gigante: manual-de-criaturas/bestas/sapo-gigante.md
+          - Sanguessuga Gigante: manual-de-criaturas/bestas/sanguessuga-gigante.md
+          - Tubarões: manual-de-criaturas/bestas/tubaroes.md
+          - Ursos: manual-de-criaturas/bestas/ursos.md
       # - Construtos:
       #     - Golens:
       #     - Objetos Animados:
