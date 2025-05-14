@@ -26,7 +26,7 @@ nav:
   - Magia:
       - Regras: magia/regras.md
       - Magias de Primeiro Círculo:
-          - Magias: magia/1-circulo/__magias-1-circulo.md
+          - Tabela de Magias: magia/1-circulo/__magias-1-circulo.md
           - Aferrolhar: magia/1-circulo/aferrolhar.md
           - Alarme: magia/1-circulo/alarme.md
           - Amarração: magia/1-circulo/amarracao.md
@@ -48,7 +48,7 @@ nav:
           - Sono: magia/1-circulo/sono.md
           - Ventriloquismo: magia/1-circulo/ventriloquismo.md
       - Magias de Segundo Círculo:
-          - Magias: magia/2-circulo/__magias-2-circulo.md
+          - Tabela de Magias: magia/2-circulo/__magias-2-circulo.md
           - Abençoar Arma: magia/2-circulo/abencoar-arma.md
           - Alterar-se: magia/2-circulo/alterar-se.md
           - Desfocar: magia/2-circulo/desfocar.md
@@ -62,7 +62,7 @@ nav:
           - Teia: magia/2-circulo/teia.md
           - Tranca Arcana: magia/2-circulo/tranca-arcana.md
       - Magias de Terceiro Círculo:
-          - Magias: magia/3-circulo/__magias-3-circulo.md
+          - Tabela de Magias: magia/3-circulo/__magias-3-circulo.md
           - Aceleração: magia/3-circulo/aceleracao.md
           - Bola de Fogo: magia/3-circulo/bola-de-fogo.md
           - Clarividência: magia/3-circulo/clarividencia.md
@@ -74,7 +74,7 @@ nav:
           - Ultravisão: magia/3-circulo/ultravisao.md
           - Voar: magia/3-circulo/voar.md
       - Magias de Quarto Círculo:
-          - Magias: magia/4-circulo/__magias-4-circulo.md
+          - Tabela de Magias: magia/4-circulo/__magias-4-circulo.md
           - Encantar Criaturas: magia/4-circulo/encantar-criaturas.md
           - Globo da Invulnerabilidade: magia/4-circulo/globo-da-invulnerabilidade.md
           - Maldição: magia/4-circulo/maldicao.md
@@ -84,7 +84,7 @@ nav:
           - Porta Dimensional: magia/4-circulo/porta-dimensional.md
           - Terreno Ilusório: magia/4-circulo/terreno-ilusorio.md
       - Magias de Quinto Círculo:
-          - Magias: magia/5-circulo/__magias-5-circulo.md
+          - Tabela de Magias: magia/5-circulo/__magias-5-circulo.md
           - Animar Mortos: magia/5-circulo/animar-mortos.md
           - Círculo de Teleporte: magia/5-circulo/circulo-de-teleporte.md
           - Conjurar Elemental: magia/5-circulo/conjurar-elemental.md
@@ -92,7 +92,7 @@ nav:
           - Receptáculo: magia/5-circulo/receptaculo.md
           - Telecinésia: magia/5-circulo/telecinesia.md
       - Magias de Sexto Círculo:
-          - Magias: magia/6-circulo/__magias-6-circulo.md
+          - Tabela de Magias: magia/6-circulo/__magias-6-circulo.md
           - Criar Comida: magia/6-circulo/criar-comida.md
           - Desintegrar: magia/6-circulo/desintegrar.md
           - Petrificação: magia/6-circulo/petrificacao.md
