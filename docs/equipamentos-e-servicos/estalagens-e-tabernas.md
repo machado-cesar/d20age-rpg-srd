@@ -10,6 +10,5 @@
 | Pernoite (desjejum)     | 5 pp  |
 | Diária* (comum)         | 1 po  |
 | Diária** (abastada)     | 10 po |
-
 \*Já com refeições simples  
 \*\*Recupera o dobro de PV e efeitos de exaustão

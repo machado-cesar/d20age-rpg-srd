@@ -13,7 +13,7 @@ Realiza averiguações duas vezes mais eficiente, o que significa que, em um tur
 ---
 
 ## Perícias
-Há uma série de habilidades assumidas como treinamento básico de personagens, como, por exemplo: nadar, montar a cavalo ou acender uma tocha. Porém, existem algumas habilidades que são bem mais específicas, como escalar por superfícies irregulares sem uso de equipamentos ou ser capaz de fazer uma leitura labial durante uma conversa no fundo de uma taberna. É aqui que entram especialistas, que são personagens que possuem treinamentos especiais em alguma atividade, na ordem de uma por nível. No quadro ao lado apresento uma lista, com registro de dez exemplos clássicos de perícias, que podem ser sorteadas ou escolhidas.
+Há uma série de habilidades assumidas como treinamento básico de personagens, como, por exemplo: nadar, montar a cavalo ou acender uma tocha. Porém, existem algumas habilidades que são bem mais específicas, como escalar por superfícies irregulares sem uso de equipamentos ou ser capaz de fazer uma leitura labial durante uma conversa no fundo de uma taberna. É aqui que entram especialistas, que são personagens que possuem treinamentos especiais em alguma atividade, na ordem de uma por nível. No quadro abaixo apresentamos uma lista, com registro de dez exemplos clássicos de perícias, que podem ser sorteadas ou escolhidas.
 
 ### Aprendendo novas perícias
 Em cada nível especialistas aprendem uma perícia nova. Isso pode ser abstraído como parte do aprendizado de classe ou melhor desenvolvido durante a aventura, caso deseje maior profundidade, com modelos de custo e dedicação de tempo. Esta lista contém exemplos clássicos, mas outras perícias podem ser desenvolvidas de maneiras análogas.

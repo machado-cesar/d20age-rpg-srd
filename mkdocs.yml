@@ -2,10 +2,17 @@ site_name: d20age RPG SRD
 nav:
   - Início: index.md
   - Personagens:
-    - Arcanista: personagens/arcanista.md
-    - Combatente: personagens/combatente.md
-    - Especialista: personagens/especialista.md
-    - Magista: personagens/magista.md
+    - Classes do Jogo:
+      - Classes do Jogo: personagens/classes/classes-do-jogo.md
+      - Arcanista: personagens/classes/arcanista.md
+      - Combatente: personagens/classes/combatente.md
+      - Especialista: personagens/classes/especialista.md
+      - Magista: personagens/classes/magista.md
+    - Povos Fantásticos:
+      - Povos Fantásticos: personagens/povos-fantasticos/povos-fantasticos.md
+      - Povo Anão: personagens/povos-fantasticos/povo-anao.md
+      - Povo Elfo: personagens/povos-fantasticos/povo-elfo.md
+      - Povo Gnomo: personagens/povos-fantasticos/povo-gnomo.md
   - Equipamentos e Serviços:
     - Miscelâneas e Utensílios: equipamentos-e-servicos/miscelaneas-e-utensilios.md
     - Armaduras e Escudos: equipamentos-e-servicos/armaduras-e-escudos.md
@@ -16,12 +23,24 @@ nav:
     - Veículos: equipamentos-e-servicos/veiculos.md
     - Máquinas de Guerra: equipamentos-e-servicos/maquinas-de-guerra.md
     - Auxiliares e Profissionais: equipamentos-e-servicos/auxiliares-e-profissionais.md
+  - Manual de Criaturas:
+    - Regras: manual-de-criaturas/regras.md
+    - Bestas:
+      - Abelhas Assassinas:
+        - Geral: manual-de-criaturas/bestas/abelhas-assassinas/geral.md
+        - Operária: manual-de-criaturas/bestas/abelhas-assassinas/abelha-assassina-operaria.md
+        - Guardiã: manual-de-criaturas/bestas/abelhas-assassinas/abelha-assassina-guardia.md
+        - Rainha: manual-de-criaturas/bestas/abelhas-assassinas/abelha-assassina-rainha.md
 theme:
   name: material
   features:
-    # - navigation.tabs
+    - navigation.tabs
+    - navigation.tabs.sticky
     # - navigation.sections
-    - toc.integrate
+    # - navigation.expand
+    - navigation.instant
+    - navigation.path
+    # - toc.integrate
     - search.suggest
     - search.highlight
     - content.tabs.link
@@ -48,3 +67,7 @@ extra:
       link: https://www.instagram.com/dm_quiral/
     - icon: fontawesome/brands/discord
       link: https://discord.com/invite/fdW435hWdN
+
+markdown_extensions:
+  - toc:
+      title: Nesta página

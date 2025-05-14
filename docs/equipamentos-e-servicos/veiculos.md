@@ -12,12 +12,15 @@
 |               | Nau            |        |         | 75x pessoas (velas)  | 150’      | 8 [11] | 60  |
 | **Terrestre** | Charrete       | 100    | 6.000   | 1x mula*             | 20’**     | 9 [10] | 5   |
 |               | Carroça        |        | 8.000   | 1x cavalo*           | 20’**     | 9 [10] | 15  |
-|               | Carruagem      | 800    | 25.000  | 2x cavalos*          | 20’**     | 8 [11] | 20  |
+|               | Carruagem      | 800    | 25.000  | 2x cavalos*          | 20’**     | 8 [11] | 20  | 
 
-\* Considere que 2x mulas substituem 1x cavalo de tração.
+\* Considere que 2x mulas substituem 1x cavalo de tração.  
 \*\* O movimento é dobrado em carga leve (até metade da carga) ou quando dobra-se os animais.
 
-## Descrições — Aquáticos
+---
+
+## Descrições de Veículos Aquáticos
+
 **Canoa:** feita de madeira, couro e lona, movida a remos (pesa 500 cn).  
 **Jangada:** feita de troncos de madeira e cordas (10’x10’), movida à remos.  
 **Barco fluvial:** remado ou empurrado com varas. Um teto pode ser adicionado por 1.000 po.  
@@ -31,7 +34,10 @@
     É possível construir uma jangada improvisada (10’x10’), com material e tempo suficiente, em 1d3 dias.
 ```  
 
-## Descrições — Terrestres
+---
+
+## Descrições de Veículos Terrestres
+
 **Charrete:** madeira, duas rodas. Movimento dobrado com mais animais.  
 **Carroça:** madeira, duas rodas.  
 **Carruagem:** madeira, quatro rodas. Movimento dobrado com mais animais ou carga leve.

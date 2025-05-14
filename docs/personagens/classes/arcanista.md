@@ -4,7 +4,7 @@
 **Treinamento:** armas simples  
 **Magia\***: capacidade de memorizar e conjurar magia, na ordem de uma por nível.  
 
-\*Ver sessão sobre magia para detalhes
+\*Ver seção sobre magia para detalhes
 
 ---
 
