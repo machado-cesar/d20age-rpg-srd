@@ -20,19 +20,6 @@ Serpentes de clima quente.
 
 ---
 
-### Naja (P)
-
-Conhecida também pelo nome de “cobra-cuspideira”. Habita savanas ou florestas úmidas.
-
-**CA:** 7 [12]; **DV:** 1 (4 PV); **Atq:** 1x picada (1d3 + veneno) ou 1x jato (cegueira);  
-**TAC0:** 19 [+0]; **MV:** 30’; **SV:** 15; **ML:** 7;  
-**Al:** N; **CG:** PR; **Id:** -; **XP:** 13; **NA:** 1d6 (1d6); **TT:** -
-
-- Veneno: mata em 1d10 turnos (SV-M para evitar).
-- Cegueira: expele um jato a 6’, que cega permanentemente (SV-C para evitar).
-
----
-
 ### Cobra Marinha (M)
 
 Serpentes de 6’, vivem em costas e enseadas, prendem a respiração por uma hora.
@@ -43,6 +30,19 @@ Serpentes de 6’, vivem em costas e enseadas, prendem a respiração por uma ho
 
 - Camuflagem: abaixo d’água fica quase invisível (4:6).
 - Veneno: morte em 1d4+2 turnos (SV-M para evitar).
+
+---
+
+### Naja (P)
+
+Conhecida também pelo nome de “cobra-cuspideira”. Habita savanas ou florestas úmidas.
+
+**CA:** 7 [12]; **DV:** 1 (4 PV); **Atq:** 1x picada (1d3 + veneno) ou 1x jato (cegueira);  
+**TAC0:** 19 [+0]; **MV:** 30’; **SV:** 15; **ML:** 7;  
+**Al:** N; **CG:** PR; **Id:** -; **XP:** 13; **NA:** 1d6 (1d6); **TT:** -
+
+- Veneno: mata em 1d10 turnos (SV-M para evitar).
+- Cegueira: expele um jato a 6’, que cega permanentemente (SV-C para evitar).
 
 ---
 

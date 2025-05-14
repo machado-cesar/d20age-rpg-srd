@@ -100,6 +100,7 @@ nav:
   - Manual de Criaturas:
       - Regras: manual-de-criaturas/regras.md
       - Bestas:
+          - Índice de Bestas: manual-de-criaturas/bestas/__bestas.md
           - Abelhas Assassinas: manual-de-criaturas/bestas/abelhas-assassinas.md
           - Animais de Montaria: manual-de-criaturas/bestas/animais-de-montaria.md
           - Aranhas Gigantes: manual-de-criaturas/bestas/aranhas-gigantes.md
@@ -125,83 +126,92 @@ nav:
           - Sanguessuga Gigante: manual-de-criaturas/bestas/sanguessuga-gigante.md
           - Tubarões: manual-de-criaturas/bestas/tubaroes.md
           - Ursos: manual-de-criaturas/bestas/ursos.md
-      # - Construtos:
-      #     - Golens:
-      #     - Objetos Animados:
-      # - Desmortos:
-      #     - Cãoniçal:
-      #     - Carniçal:
-      #     - Esqueletos:
-      #     - Espectro:
-      #     - Fantasma:
-      #     - Inumano:
-      #     - Lich:
-      #     - Múmia:
-      #     - Vampiro:
-      #     - Zumbi:
-      # - Dracônicos:
-      #     - Dracos:
-      #     - Draconato:
-      #     - Dragão:
-      #     - Hidras:
-      #     - Serpe:
-      #     - Salamandra Ígnea:
-      # - Extraplanares:
-      #     - Cão Infernal:
-      #     - Elemental:
-      #     - Gênio:
-      # - Feéricos:
-      #     - Estrigas:
-      #     - Fada:
-      #     - Nereídas:
-      #     - Ninfa:
-      #     - Pégasus:
-      #     - Raposa Lampejante:
-      #     - Sátiro:
-      #     - Trasgo:
-      #     - Unicórnio:
-      # - Floranídeos:
-      #     - Ente:
-      #     - Cogumelos:
-      #     - Lodo Verde:
-      #     - Mofo Amarelo:
-      # - Gigantes:
-      #     - Ettin:
-      #     - Gigantes:
-      #     - Ogro:
-      #     - Troll:
-      # - Humanoides:
-      #     - Anão:
-      #     - Bandido:
-      #     - Centauro:
-      #     - Duendes:
-      #     - Elfo:
-      #     - Gnomo:
-      #     - Guarda Comum:
-      #     - Pessoa Comum:
-      #     - Orque:
-      #     - Troglodita:
-      #     - Veteranos:
-      # - Monstros:
-      #     - Beija-Sangue:
-      #     - Cocatriz:
-      #     - Cubo Gelatinoso:
-      #     - Duplicador:
-      #     - Gárgula:
-      #     - Górgona:
-      #     - Grifo:
-      #     - Gosma Preta:
-      #     - Licantropo:
-      #     - Minotauro:
-      #     - Mímico:
-      #     - Monstro da Ferrugem:
-      #     - Olho Tirano:
-      #     - Perfurador:
-      #     - Quimera:
-      #     - Sombra:
-      #     - Urso Coruja:
-      #     - Verme Carniceiro:
-      #     - Verme Púrpura:
+      - Construtos:
+          - Índice de Construtos: manual-de-criaturas/construtos/__construtos.md
+          - Golens: manual-de-criaturas/construtos/golens.md
+          - Objetos Animados: manual-de-criaturas/construtos/objetos-animados.md
+      - Desmortos:
+          - Índice de Desmortos: manual-de-criaturas/desmortos/__desmortos.md
+          - Cãoniçal: manual-de-criaturas/desmortos/caonical.md
+          - Carniçal: manual-de-criaturas/desmortos/carnical.md
+          - Esqueletos: manual-de-criaturas/desmortos/esqueletos.md
+          - Espectro: manual-de-criaturas/desmortos/espectro.md
+          - Fantasma: manual-de-criaturas/desmortos/fantasma.md
+          - Inumano: manual-de-criaturas/desmortos/inumano.md
+          - Lich: manual-de-criaturas/desmortos/lich.md
+          - Múmia: manual-de-criaturas/desmortos/mumia.md
+          - Vampiro: manual-de-criaturas/desmortos/vampiro.md
+          - Zumbi: manual-de-criaturas/desmortos/zumbi.md
+      - Dracônicos:
+          - Índice de Dracônicos: manual-de-criaturas/draconicos/__draconicos.md
+          - Dracos: manual-de-criaturas/draconicos/dracos.md
+          - Draconato: manual-de-criaturas/draconicos/draconato.md
+          - Dragão: manual-de-criaturas/draconicos/dragao.md
+          - Hidras: manual-de-criaturas/draconicos/hidras.md
+          - Serpe: manual-de-criaturas/draconicos/serpe.md
+          - Salamandra Ígnea: manual-de-criaturas/draconicos/salamandra-ignea.md
+      - Extraplanares:
+          - Índice de Extraplanares: manual-de-criaturas/extraplanares/__extraplanares.md
+          - Cão Infernal: manual-de-criaturas/extraplanares/cao-infernal.md
+          - Elemental: manual-de-criaturas/extraplanares/elemental.md
+          - Gênio: manual-de-criaturas/extraplanares/genio.md
+      - Feéricos:
+          - Índice de Feéricos: manual-de-criaturas/feericos/__feericos.md
+          - Estrigas: manual-de-criaturas/feericos/estrigas.md
+          - Fada: manual-de-criaturas/feericos/fada.md
+          - Nereídas: manual-de-criaturas/feericos/nereidas.md
+          - Ninfa: manual-de-criaturas/feericos/ninfa.md
+          - Pégasus: manual-de-criaturas/feericos/pegasus.md
+          - Raposa Lampejante: manual-de-criaturas/feericos/raposa-lampejante.md
+          - Sátiro: manual-de-criaturas/feericos/satiro.md
+          - Trasgo: manual-de-criaturas/feericos/trasgo.md
+          - Unicórnio: manual-de-criaturas/feericos/unicornio.md
+      - Floranídeos:
+          - Índice de Floranídeos: manual-de-criaturas/floranideos/__floranideos.md
+          - Ente: manual-de-criaturas/floranideos/ente.md
+          - Cogumelos: manual-de-criaturas/floranideos/cogumelos.md
+          - Lodo Verde: manual-de-criaturas/floranideos/lodo-verde.md
+          - Mofo Amarelo: manual-de-criaturas/floranideos/mofo-amarelo.md
+      - Gigantes:
+          - Índice de Gigantes: manual-de-criaturas/gigantes/__gigantes.md
+          - Ettin: manual-de-criaturas/gigantes/ettin.md
+          - Gigantes: manual-de-criaturas/gigantes/gigantes.md
+          - Ogro: manual-de-criaturas/gigantes/ogro.md
+          - Troll: manual-de-criaturas/gigantes/troll.md
+      - Humanoides:
+          - Íindece de Humanóides: manual-de-criaturas/humanoides/__humanoides.md
+          - Anão: manual-de-criaturas/humanoides/anao.md
+          - Bandido: manual-de-criaturas/humanoides/bandido.md
+          - Centauro: manual-de-criaturas/humanoides/centauro.md
+          - Duendes: manual-de-criaturas/humanoides/duendes.md
+          - Elfo: manual-de-criaturas/humanoides/elfo.md
+          - Gnomo: manual-de-criaturas/humanoides/gnomo.md
+          - Guarda Comum: manual-de-criaturas/humanoides/guarda-comum.md
+          - Pessoa Comum: manual-de-criaturas/humanoides/pessoa-comum.md
+          - Orque: manual-de-criaturas/humanoides/orque.md
+          - Troglodita: manual-de-criaturas/humanoides/troglodita.md
+          - Veteranos: manual-de-criaturas/humanoides/veteranos.md
+      - Monstros:
+          - Índce de Monstros: manual-de-criaturas/monstros/__monstros.md
+          - Beija-Sangue: manual-de-criaturas/monstros/beija-sangue.md
+          - Cocatriz: manual-de-criaturas/monstros/cocatriz.md
+          - Cubo Gelatinoso: manual-de-criaturas/monstros/cubo-gelatinoso.md
+          - Duplicador: manual-de-criaturas/monstros/duplicador.md
+          - Gárgula: manual-de-criaturas/monstros/gargula.md
+          - Górgona: manual-de-criaturas/monstros/gorgona.md
+          - Grifo: manual-de-criaturas/monstros/grifo.md
+          - Gosma Preta: manual-de-criaturas/monstros/gosma-preta.md
+          - Licantropo: manual-de-criaturas/monstros/licantropo.md
+          - Minotauro: manual-de-criaturas/monstros/minotauro.md
+          - Mímico: manual-de-criaturas/monstros/mimico.md
+          - Monstro da Ferrugem: manual-de-criaturas/monstros/monstro-da-ferrugem.md
+          - Olho Tirano: manual-de-criaturas/monstros/olho-tirano.md
+          - Perfurador: manual-de-criaturas/monstros/perfurador.md
+          - Quimera: manual-de-criaturas/monstros/quimera.md
+          - Sombra: manual-de-criaturas/monstros/sombra.md
+          - Urso Coruja: manual-de-criaturas/monstros/urso-coruja.md
+          - Verme Carniceiro: manual-de-criaturas/monstros/verme-carniceiro.md
+          - Verme Púrpura: manual-de-criaturas/monstros/verme-purpura.md
 theme:
   name: material
   features:

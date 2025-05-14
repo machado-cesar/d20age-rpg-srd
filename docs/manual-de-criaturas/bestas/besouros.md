@@ -16,18 +16,6 @@ Criatura de 3’, que ilumina como uma vela.
 
 ---
 
-### Besouro Viscoso (P)
-
-Besouro de 3’, que vive em subterrâneos e deixa um rastro viscoso por onde passa.
-
-**CA:** 4 [14]; **DV:** 2 (9 PV); **Atq:** 1x mordida (1d6);  
-**TAC0:** 18 [+1]; **MV:** 40’; **SV:** 15; **ML:** 7;  
-**Al:** N; **CG:** PR; **Id:** -; **XP:** 25; **NA:** 1d8 (5d8); **TT:** -
-
-- Jato: quando ameaçado expele um jato de óleo que gera cegueira parcial (por 24h) em todos os alvos à 5’ (SV-C para evitar).
-
----
-
 ### Besouro Tigre (M)
 
 Besouro agressivo e carnívoro, de 4’ com listras tigradas pelo corpo.
@@ -37,3 +25,15 @@ Besouro agressivo e carnívoro, de 4’ com listras tigradas pelo corpo.
 **Al:** N; **CG:** PR; **Id:** -; **XP:** 50; **NA:** 1d6 (5d6); **TT:** -
 
 - Carga: suporta 4.000 cn | 8.000 cn.
+
+---
+
+### Besouro Viscoso (P)
+
+Besouro de 3’, que vive em subterrâneos e deixa um rastro viscoso por onde passa.
+
+**CA:** 4 [14]; **DV:** 2 (9 PV); **Atq:** 1x mordida (1d6);  
+**TAC0:** 18 [+1]; **MV:** 40’; **SV:** 15; **ML:** 7;  
+**Al:** N; **CG:** PR; **Id:** -; **XP:** 25; **NA:** 1d8 (5d8); **TT:** -
+
+- Jato: quando ameaçado expele um jato de óleo que gera cegueira parcial (por 24h) em todos os alvos à 5’ (SV-C para evitar).

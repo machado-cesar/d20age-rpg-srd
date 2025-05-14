@@ -43,5 +43,3 @@ Animal raríssimo, de 50’, que pode ser encontrado em algum arquipélago marin
 
 - **Cauda:** o golpe com a cauda é feito em um alvo diferente, geralmente em posição oposta, que além de causar dano, derruba o alvo (SV-C para evitar).
 
----
-

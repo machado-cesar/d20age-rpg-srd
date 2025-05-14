@@ -46,3 +46,5 @@ Possui dois palmos de tamanho (2’), e vive na colmeia.
 **CA:** 7 [12]; **DV:** 2 (9 PV); **Atq:** 1x ferrão (1d4 + veneno);  
 **TAC0:** 18 [+1]; **MV:** 50’ (voo); **SV:** 15; **ML:** 11;  
 **Al:** N; **CG:** PR; **Id:** -; **XP:** 35; **NA:** 0 (0); **TT:** -
+
+---

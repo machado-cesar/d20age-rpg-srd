@@ -17,6 +17,16 @@ Animal irascível, adaptado a climas secos, usado para transporte em desertos.
 
 ---
 
+### Cavalo de Cavalgada (G)
+
+**CA:** 7 [12]; **DV:** 2 (9 PV); **Atq:** 1x pata (1d6);  
+**TAC0:** 16 [+3]; **MV:** 80’; **SV:** 15; **ML:** 7;  
+**Al:** N; **CG:** PR; **XP:** 35; **NA:** -; **TT:** -
+
+- **Carga:** 3.000 cn / ½ MV 6.000 cn
+
+---
+
 ### Cavalo de Guerra (G)
 
 **CA:** 7 [12]; **DV:** 3 (13 PV); **Atq:** 2x patas (1d6);  
@@ -37,16 +47,6 @@ Não combate, foge se atacado.
 **Al:** N; **CG:** PR; **XP:** 35; **NA:** -; **TT:** -
 
 - **Carga:** 4.500 cn / ½ MV 9.000 cn
-
----
-
-### Cavalo de Cavalgada (G)
-
-**CA:** 7 [12]; **DV:** 2 (9 PV); **Atq:** 1x pata (1d6);  
-**TAC0:** 16 [+3]; **MV:** 80’; **SV:** 15; **ML:** 7;  
-**Al:** N; **CG:** PR; **XP:** 35; **NA:** -; **TT:** -
-
-- **Carga:** 3.000 cn / ½ MV 6.000 cn
 
 ---
 

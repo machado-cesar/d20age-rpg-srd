@@ -41,6 +41,18 @@ Aranha peluda enorme (20’), de dez patas, e hábito noturno.
 
 ---
 
+### Tarântula (G)
+
+Aranha de 7’, mística e peluda, com veneno que gera uma dor insuportável.
+
+**CA:** 5 [14]; **DV:** 4 (18 PV); **Atq:** 1x picada (1d8 + veneno);  
+**TAC0:** 16 [+3]; **MV:** 40’ | 60’ (teia); **SV:** 13; **ML:** 8;  
+**Al:** N; **CG:** PR; **Id:** -; **XP:** 125; **NA:** 1d3 (1d3); **TT:** -
+
+- **Veneno:** uma “dança da morte” é iniciada em alvos envenenados, por 2d6 turnos (SV-M para evitar). Quem assiste este macabro evento pode ser induzido a entrar na dança, pelo mesmo tempo (SV-F para evitar). Criaturas dançando podem ser atacadas com bônus de +4, sofrem penalidade de -4 para golpes e não conseguem se mover. Após cinco turnos nesta sinistra dança, a vítima desma
+
+---
+
 ### Viúva Negra (M)
 
 Aranha de 6’, com uma mancha vermelha no abdome.
@@ -52,14 +64,3 @@ Aranha de 6’, com uma mancha vermelha no abdome.
 - **Veneno:** matará em um turno (SV-M para evitar).  
 - **Teias:** espalha teias pelo ambiente para proteção e sinalização, que gera efeito de tremorsenso. Criaturas presas de tamanho médio podem arrebentá-la em 1d4 turnos, metade disso para FOR 13+. Criaturas de força sobre-humana (ex.: gigantes) se soltam em 1d4 rodadas. Fogo queima a teia em duas rodadas, e causa 1d6 de dano em quem tiver em contato.
 
----
-
-### Tarântula (G)
-
-Aranha de 7’, mística e peluda, com veneno que gera uma dor insuportável.
-
-**CA:** 5 [14]; **DV:** 4 (18 PV); **Atq:** 1x picada (1d8 + veneno);  
-**TAC0:** 16 [+3]; **MV:** 40’ | 60’ (teia); **SV:** 13; **ML:** 8;  
-**Al:** N; **CG:** PR; **Id:** -; **XP:** 125; **NA:** 1d3 (1d3); **TT:** -
-
-- **Veneno:** uma “dança da morte” é iniciada em alvos envenenados, por 2d6 turnos (SV-M para evitar). Quem assiste este macabro evento pode ser induzido a entrar na dança, pelo mesmo tempo (SV-F para evitar). Criaturas dançando podem ser atacadas com bônus de +4, sofrem penalidade de -4 para golpes e não conseguem se mover. Após cinco turnos nesta sinistra dança, a vítima desma
