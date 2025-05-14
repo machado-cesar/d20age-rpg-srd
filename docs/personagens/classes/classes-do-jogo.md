@@ -1,3 +1,8 @@
+---
+hide:
+  - toc
+---
+
 # Classes de Jogo
 
 Neste material, personagens controlados (PCs) são humanos, e pertencem às seguintes classes: arcanista, combatente, especialista ou magista.

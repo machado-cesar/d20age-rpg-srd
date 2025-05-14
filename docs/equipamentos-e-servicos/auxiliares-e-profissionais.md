@@ -7,6 +7,8 @@ Ao longo do jogo, personagens podem procurar por ajuda em aventuras, como algué
 -  Para cada 100 residentes em um vilarejo, 2d6 aceitarão aventurar-se como auxiliar.
 -  Profissionais são menos comuns (1d6 / 100 residentes), e menos ávidos a searriscarem em aventuras (-1 na reação).
 
+---
+
 ## Descrições
 
 **Auxiliar:** faz serviços genéricos e simples, (ex.: carregar equipamentos) pelo valor de 5 pp por dia e um quarto da parte do tesouro.  
@@ -16,6 +18,8 @@ Ao longo do jogo, personagens podem procurar por ajuda em aventuras, como algué
 Parte do tesouro: correspondente a uma fração de divisão igual. 
 Se o grupo tem cinco personagens, 20% (um quinto) do tesouro corresponde a uma parte (ou fração).
 ````
+
+---
 
 ## Negociações
 
@@ -29,14 +33,19 @@ Durante a negociação do serviço é preciso avaliar se a oferta está de acord
 | 9-11 | Aceita a oferta                        |
 | 12+  | Aceita com entusiasmo (+1 na lealdade) |
 
+---
 
 ## Experiência
 Para divisão da XP, considere auxiliares como um quarto de personagens (1/4), e profissionais como personagens.
+
+---
 
 ## Lealdade
 Sempre que há situação de mudança de comportamento, como, por exemplo, mediante um perigo real, usa-se o teste de moral ou lealdade (comportam-se como criaturas).
 
 **Leal (sequaz):** ao longo do jogo, auxiliares ou profissionais podem se tornar leais a PCs, e assim passarão a ter fidelidade real, o que significa que não é preciso testar sua lealdade nas mesmas situações que auxiliares ou profissionais comuns. Como parâmetro geral, personagens conseguem um número de NPCs leais igual a 4 mais seu modificador de CAR.
+
+---
 
 ## Ofícios
 A tabela a seguir pode ser utilizada para gerar auxiliares e profissionais.
@@ -86,6 +95,7 @@ A tabela a seguir pode ser utilizada para gerar auxiliares e profissionais.
 | 19   | Herbalista       | Conhece as ervas locais, prepara ervas medicinais na metade do custo         |
 | 20   | Joalheiro(a)     | Capaz de diagnosticar gemas e joias com alta precisão                        |
 
+---
 
 ## Modelo para auxiliares e profissionais
 

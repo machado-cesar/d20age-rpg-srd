@@ -1,3 +1,8 @@
+---
+hide:
+  - toc
+---
+
 # Povos Fantásticos
 
 Povos fantásticos como opção de jogo permitem uma degustação da fantasia clássica na projeção ficcional, com potencial acréscimo da diversidade do universo fantástico, o que permitirá experenciar sua cultura e habilidades. Neste material apresentamos, de forma simplificada, três alternativas (opcionais), para jogo: povo anão, povo elfo e povo gnomo.
@@ -11,7 +16,7 @@ livre para fazer qualquer alteração desta proposta.
 
 ---
 
-**COMENTÁRIO ADICIONAL DO AUTOR** 
+## Comentário Adicional do Autor
 
 Na proposta deste sistema, participantes jogam por projeção ficcional por meio de personagens, em um universo vasto de mistérios. Personagens humanos permitem uma maior capacidade de explorar nossas emoções e reações. O confronto com o estranho se torna uma experiência visceral, explorando não apenas os horrores e maravilhas do universo fictício, mas também nossos limites e potenciais.
 

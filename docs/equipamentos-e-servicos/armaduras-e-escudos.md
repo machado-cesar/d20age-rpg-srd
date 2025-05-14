@@ -1,3 +1,8 @@
+---
+hide:
+  - toc
+---
+
 # Armaduras e Escudos
 
 | Categoria        | Armadura      | Custo (po) | CA     | cn  |

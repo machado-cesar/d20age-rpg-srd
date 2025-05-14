@@ -1,3 +1,8 @@
+---
+hide:
+  - toc
+---
+
 # Ervas Medicinais
 
 Uma série de ervas de uso popular podem ser exploradas, são preparos a partir de folhas, flores ou raízes, de propriedades terapêuticas ou até místicas. Abaixo apresento uma lista com uma seleção de ervas medicinais comuns e o tratamento popular à qual ela se propõe.

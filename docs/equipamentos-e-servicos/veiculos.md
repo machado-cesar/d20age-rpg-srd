@@ -19,7 +19,9 @@
 
 ---
 
-## Descrições de Veículos Aquáticos
+## Descrições
+
+### Aquáticos
 
 **Canoa:** feita de madeira, couro e lona, movida a remos (pesa 500 cn).  
 **Jangada:** feita de troncos de madeira e cordas (10’x10’), movida à remos.  
@@ -31,12 +33,11 @@
 **Nau: embarcação** de mar aberto, dois mastros, grande porte.  
 
 ```
-    É possível construir uma jangada improvisada (10’x10’), com material e tempo suficiente, em 1d3 dias.
+    É possível construir uma jangada improvisada (10’x10’), 
+    com material e tempo suficiente, em 1d3 dias.
 ```  
 
----
-
-## Descrições de Veículos Terrestres
+### Terrestres
 
 **Charrete:** madeira, duas rodas. Movimento dobrado com mais animais.  
 **Carroça:** madeira, duas rodas.  

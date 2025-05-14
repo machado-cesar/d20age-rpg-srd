@@ -1,3 +1,8 @@
+---
+hide:
+  - toc
+---
+
 # Estalagens e Tabernas
 
 | Serviço                 | Valor |

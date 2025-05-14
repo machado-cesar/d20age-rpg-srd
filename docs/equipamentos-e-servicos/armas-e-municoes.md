@@ -1,3 +1,8 @@
+---
+hide:
+  - toc
+---
+
 # Armas e Munições
 
 | Categoria              | Arma               | po  | cn  | Dano | Notas                                      |
