@@ -100,11 +100,108 @@ nav:
   - Manual de Criaturas:
       - Regras: manual-de-criaturas/regras.md
       - Bestas:
-          - Abelhas Assassinas:
-              - Geral: manual-de-criaturas/bestas/abelhas-assassinas/geral.md
-              - Operária: manual-de-criaturas/bestas/abelhas-assassinas/abelha-assassina-operaria.md
-              - Guardiã: manual-de-criaturas/bestas/abelhas-assassinas/abelha-assassina-guardia.md
-              - Rainha: manual-de-criaturas/bestas/abelhas-assassinas/abelha-assassina-rainha.md
+          - Abelhas Assassinas: manual-de-criaturas/bestas/abelhas-assassinas.md
+      #     - Animais de Montaria:
+      #     - Aves de Rapina:
+      #     - Aranhas Gigantes:
+      #     - Babuínos da Rocha:
+      #     - Besouros:
+      #     - Cães:
+      #     - Caranguejo Gigante:
+      #     - Centopeia Gigante:
+      #     - Cobras:
+      #     - Crocodilos:
+      #     - Cupim Gigante:
+      #     - Enxame de Insetos:
+      #     - Escorpião Gigante:
+      #     - Formiga Gigante:
+      #     - Gralhas:
+      #     - Javali:
+      #     - Lobos:
+      #     - Morcegos:
+      #     - Polvo Gigante:
+      #     - Ratos:
+      #     - Sapo Gigante:
+      #     - Sanguessuga Gigante:
+      #     - Tubarões:
+      #     - Ursos:              
+      # - Construtos:
+      #     - Golens:
+      #     - Objetos Animados:
+      # - Desmortos:
+      #     - Cãoniçal:
+      #     - Carniçal:
+      #     - Esqueletos:
+      #     - Espectro:
+      #     - Fantasma:
+      #     - Inumano:
+      #     - Lich:
+      #     - Múmia:
+      #     - Vampiro:
+      #     - Zumbi:
+      # - Dracônicos:
+      #     - Dracos:
+      #     - Draconato:
+      #     - Dragão:
+      #     - Hidras:
+      #     - Serpe:
+      #     - Salamandra Ígnea:
+      # - Extraplanares:
+      #     - Cão Infernal:
+      #     - Elemental:
+      #     - Gênio:
+      # - Feéricos:
+      #     - Estrigas:
+      #     - Fada:
+      #     - Nereídas:
+      #     - Ninfa:
+      #     - Pégasus:
+      #     - Raposa Lampejante:
+      #     - Sátiro:
+      #     - Trasgo:
+      #     - Unicórnio:
+      # - Floranídeos:
+      #     - Ente:
+      #     - Cogumelos:
+      #     - Lodo Verde:
+      #     - Mofo Amarelo:
+      # - Gigantes:
+      #     - Ettin:
+      #     - Gigantes:
+      #     - Ogro:
+      #     - Troll:
+      # - Humanoides:
+      #     - Anão:
+      #     - Bandido:
+      #     - Centauro:
+      #     - Duendes:
+      #     - Elfo:
+      #     - Gnomo:
+      #     - Guarda Comum:
+      #     - Pessoa Comum:
+      #     - Orque:
+      #     - Troglodita:
+      #     - Veteranos:
+      # - Monstros:
+      #     - Beija-Sangue:
+      #     - Cocatriz:
+      #     - Cubo Gelatinoso:
+      #     - Duplicador:
+      #     - Gárgula:
+      #     - Górgona:
+      #     - Grifo:
+      #     - Gosma Preta:
+      #     - Licantropo:
+      #     - Minotauro:
+      #     - Mímico:
+      #     - Monstro da Ferrugem:
+      #     - Olho Tirano:
+      #     - Perfurador:
+      #     - Quimera:
+      #     - Sombra:
+      #     - Urso Coruja:
+      #     - Verme Carniceiro:
+      #     - Verme Púrpura:
 theme:
   name: material
   features:
