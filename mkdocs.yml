@@ -2,35 +2,109 @@ site_name: d20age RPG SRD
 nav:
   - Início: index.md
   - Personagens:
-    - Classes do Jogo:
-      - Classes do Jogo: personagens/classes/classes-do-jogo.md
-      - Arcanista: personagens/classes/arcanista.md
-      - Combatente: personagens/classes/combatente.md
-      - Especialista: personagens/classes/especialista.md
-      - Magista: personagens/classes/magista.md
-    - Povos Fantásticos:
-      - Povos Fantásticos: personagens/povos-fantasticos/povos-fantasticos.md
-      - Povo Anão: personagens/povos-fantasticos/povo-anao.md
-      - Povo Elfo: personagens/povos-fantasticos/povo-elfo.md
-      - Povo Gnomo: personagens/povos-fantasticos/povo-gnomo.md
+      - Classes do Jogo:
+          - Classes do Jogo: personagens/classes/classes-do-jogo.md
+          - Arcanista: personagens/classes/arcanista.md
+          - Combatente: personagens/classes/combatente.md
+          - Especialista: personagens/classes/especialista.md
+          - Magista: personagens/classes/magista.md
+      - Povos Fantásticos:
+          - Povos Fantásticos: personagens/povos-fantasticos/povos-fantasticos.md
+          - Povo Anão: personagens/povos-fantasticos/povo-anao.md
+          - Povo Elfo: personagens/povos-fantasticos/povo-elfo.md
+          - Povo Gnomo: personagens/povos-fantasticos/povo-gnomo.md
   - Equipamentos e Serviços:
-    - Miscelâneas e Utensílios: equipamentos-e-servicos/miscelaneas-e-utensilios.md
-    - Armaduras e Escudos: equipamentos-e-servicos/armaduras-e-escudos.md
-    - Armas e Munições: equipamentos-e-servicos/armas-e-municoes.md
-    - Ervas Medicinais: equipamentos-e-servicos/ervas-medicinais.md
-    - Estalagens e Tabernas: equipamentos-e-servicos/estalagens-e-tabernas.md
-    - Animais: equipamentos-e-servicos/animais.md
-    - Veículos: equipamentos-e-servicos/veiculos.md
-    - Máquinas de Guerra: equipamentos-e-servicos/maquinas-de-guerra.md
-    - Auxiliares e Profissionais: equipamentos-e-servicos/auxiliares-e-profissionais.md
+      - Miscelâneas e Utensílios: equipamentos-e-servicos/miscelaneas-e-utensilios.md
+      - Armaduras e Escudos: equipamentos-e-servicos/armaduras-e-escudos.md
+      - Armas e Munições: equipamentos-e-servicos/armas-e-municoes.md
+      - Ervas Medicinais: equipamentos-e-servicos/ervas-medicinais.md
+      - Estalagens e Tabernas: equipamentos-e-servicos/estalagens-e-tabernas.md
+      - Animais: equipamentos-e-servicos/animais.md
+      - Veículos: equipamentos-e-servicos/veiculos.md
+      - Máquinas de Guerra: equipamentos-e-servicos/maquinas-de-guerra.md
+      - Auxiliares e Profissionais: equipamentos-e-servicos/auxiliares-e-profissionais.md
+  - Magia:
+      - Regras: magia/regras.md
+      - Magias de Primeiro Círculo:
+          - Magias: magia/1-circulo/__magias-1-circulo.md
+          - Aferrolhar: magia/1-circulo/aferrolhar.md
+          - Alarme: magia/1-circulo/alarme.md
+          - Amarração: magia/1-circulo/amarracao.md
+          - Armadura Mágica: magia/1-circulo/armadura-magica.md
+          - Detectar Magia: magia/1-circulo/detectar-magia.md
+          - Disco Flutuante: magia/1-circulo/disco-flutuante.md
+          - Escudo Místico: magia/1-circulo/escudo-mistico.md
+          - Emaranhar: magia/1-circulo/emaranhar.md
+          - Encantar Pessoas: magia/1-circulo/encantar-pessoas.md
+          - Exorcismo: magia/1-circulo/exorcismo.md
+          - Flecha Mágica: magia/1-circulo/flecha-magica.md
+          - Heroísmo: magia/1-circulo/heroismo.md
+          - Leitura Mágica: magia/1-circulo/leitura-magica.md
+          - Luz: magia/1-circulo/luz.md
+          - Mãos Flamejantes: magia/1-circulo/maos-flamejantes.md
+          - Patas de Aranha: magia/1-circulo/patas-de-aranha.md
+          - Proteção Contra o Mal: magia/1-circulo/protecao-contra-o-mal.md
+          - Restauração: magia/1-circulo/restauracao.md
+          - Sono: magia/1-circulo/sono.md
+          - Ventriloquismo: magia/1-circulo/ventriloquismo.md
+      - Magias de Segundo Círculo:
+          - Magias: magia/2-circulo/__magias-2-circulo.md
+          - Abençoar Arma: magia/2-circulo/abencoar-arma.md
+          - Alterar-se: magia/2-circulo/alterar-se.md
+          - Desfocar: magia/2-circulo/desfocar.md
+          - Invisibilidade: magia/2-circulo/invisibilidade.md
+          - Levitar: magia/2-circulo/levitar.md
+          - Neutralizar Veneno: magia/2-circulo/neutralizar-veneno.md
+          - PES - Percepção Extra Sensorial: magia/2-circulo/pes.md
+          - Reflexos: magia/2-circulo/reflexos.md
+          - Resistência a Elemento: magia/2-circulo/resistencia-a-elemento.md
+          - Silêncio: magia/2-circulo/silencio.md
+          - Teia: magia/2-circulo/teia.md
+          - Tranca Arcana: magia/2-circulo/tranca-arcana.md
+      - Magias de Terceiro Círculo:
+          - Magias: magia/3-circulo/__magias-3-circulo.md
+          - Aceleração: magia/3-circulo/aceleracao.md
+          - Bola de Fogo: magia/3-circulo/bola-de-fogo.md
+          - Clarividência: magia/3-circulo/clarividencia.md
+          - Dissipar Magia: magia/3-circulo/dissipar-magia.md
+          - Falar com Mortos: magia/3-circulo/falar-com-mortos.md
+          - Imobilizar Pessoas: magia/3-circulo/imobilizar-pessoas.md
+          - Respiração Aquática: magia/3-circulo/respiracao-aquatica.md
+          - Remover Doença: magia/3-circulo/remover-doenca.md
+          - Ultravisão: magia/3-circulo/ultravisao.md
+          - Voar: magia/3-circulo/voar.md
+      - Magias de Quarto Círculo:
+          - Magias: magia/4-circulo/__magias-4-circulo.md
+          - Encantar Criaturas: magia/4-circulo/encantar-criaturas.md
+          - Globo da Invulnerabilidade: magia/4-circulo/globo-da-invulnerabilidade.md
+          - Maldição: magia/4-circulo/maldicao.md
+          - Medo: magia/4-circulo/medo.md
+          - Olho Mágico: magia/4-circulo/olho-magico.md
+          - Polimorfismo: magia/4-circulo/polimorfismo.md
+          - Porta Dimensional: magia/4-circulo/porta-dimensional.md
+          - Terreno Ilusório: magia/4-circulo/terreno-ilusorio.md
+      - Magias de Quinto Círculo:
+          - Magias: magia/5-circulo/__magias-5-circulo.md
+          - Animar Mortos: magia/5-circulo/animar-mortos.md
+          - Círculo de Teleporte: magia/5-circulo/circulo-de-teleporte.md
+          - Conjurar Elemental: magia/5-circulo/conjurar-elemental.md
+          - Raio da Morte: magia/5-circulo/raio-da-morte.md
+          - Receptáculo: magia/5-circulo/receptaculo.md
+          - Telecinésia: magia/5-circulo/telecinesia.md
+      - Magias de Sexto Círculo:
+          - Magias: magia/6-circulo/__magias-6-circulo.md
+          - Criar Comida: magia/6-circulo/criar-comida.md
+          - Desintegrar: magia/6-circulo/desintegrar.md
+          - Petrificação: magia/6-circulo/petrificacao.md
+          - Ressureição: magia/6-circulo/ressurreicao.md
   - Manual de Criaturas:
-    - Regras: manual-de-criaturas/regras.md
-    - Bestas:
-      - Abelhas Assassinas:
-        - Geral: manual-de-criaturas/bestas/abelhas-assassinas/geral.md
-        - Operária: manual-de-criaturas/bestas/abelhas-assassinas/abelha-assassina-operaria.md
-        - Guardiã: manual-de-criaturas/bestas/abelhas-assassinas/abelha-assassina-guardia.md
-        - Rainha: manual-de-criaturas/bestas/abelhas-assassinas/abelha-assassina-rainha.md
+      - Regras: manual-de-criaturas/regras.md
+      - Bestas:
+          - Abelhas Assassinas:
+              - Geral: manual-de-criaturas/bestas/abelhas-assassinas/geral.md
+              - Operária: manual-de-criaturas/bestas/abelhas-assassinas/abelha-assassina-operaria.md
+              - Guardiã: manual-de-criaturas/bestas/abelhas-assassinas/abelha-assassina-guardia.md
+              - Rainha: manual-de-criaturas/bestas/abelhas-assassinas/abelha-assassina-rainha.md
 theme:
   name: material
   features:
@@ -60,7 +134,7 @@ theme:
       accent: lime
 
 extra:
-  social: 
+  social:
     - icon: fontawesome/brands/youtube
       link: https://www.youtube.com/@dmquiral5942
     - icon: fontawesome/brands/instagram
