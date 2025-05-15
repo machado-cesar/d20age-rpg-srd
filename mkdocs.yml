@@ -148,8 +148,8 @@ nav:
           - Draconato: manual-de-criaturas/draconicos/draconato.md
           - Dragão: manual-de-criaturas/draconicos/dragao.md
           - Hidras: manual-de-criaturas/draconicos/hidras.md
-          - Serpe: manual-de-criaturas/draconicos/serpe.md
           - Salamandra Ígnea: manual-de-criaturas/draconicos/salamandra-ignea.md
+          - Serpe: manual-de-criaturas/draconicos/serpe.md
       - Extraplanares:
           - Índice de Extraplanares: manual-de-criaturas/extraplanares/__extraplanares.md
           - Cão Infernal: manual-de-criaturas/extraplanares/cao-infernal.md
@@ -168,8 +168,8 @@ nav:
           - Unicórnio: manual-de-criaturas/feericos/unicornio.md
       - Floranídeos:
           - Índice de Floranídeos: manual-de-criaturas/floranideos/__floranideos.md
-          - Ente: manual-de-criaturas/floranideos/ente.md
           - Cogumelos: manual-de-criaturas/floranideos/cogumelos.md
+          - Ente: manual-de-criaturas/floranideos/ente.md
           - Lodo Verde: manual-de-criaturas/floranideos/lodo-verde.md
           - Mofo Amarelo: manual-de-criaturas/floranideos/mofo-amarelo.md
       - Gigantes:
@@ -177,9 +177,9 @@ nav:
           - Ettin: manual-de-criaturas/gigantes/ettin.md
           - Gigantes: manual-de-criaturas/gigantes/gigantes.md
           - Ogro: manual-de-criaturas/gigantes/ogro.md
-          - Troll: manual-de-criaturas/gigantes/troll.md
+          - Trol: manual-de-criaturas/gigantes/trol.md
       - Humanoides:
-          - Íindece de Humanóides: manual-de-criaturas/humanoides/__humanoides.md
+          - Índece de Humanóides: manual-de-criaturas/humanoides/__humanoides.md
           - Anão: manual-de-criaturas/humanoides/anao.md
           - Bandido: manual-de-criaturas/humanoides/bandido.md
           - Centauro: manual-de-criaturas/humanoides/centauro.md
@@ -199,11 +199,11 @@ nav:
           - Duplicador: manual-de-criaturas/monstros/duplicador.md
           - Gárgula: manual-de-criaturas/monstros/gargula.md
           - Górgona: manual-de-criaturas/monstros/gorgona.md
-          - Grifo: manual-de-criaturas/monstros/grifo.md
           - Gosma Preta: manual-de-criaturas/monstros/gosma-preta.md
+          - Grifo: manual-de-criaturas/monstros/grifo.md
           - Licantropo: manual-de-criaturas/monstros/licantropo.md
-          - Minotauro: manual-de-criaturas/monstros/minotauro.md
           - Mímico: manual-de-criaturas/monstros/mimico.md
+          - Minotauro: manual-de-criaturas/monstros/minotauro.md
           - Monstro da Ferrugem: manual-de-criaturas/monstros/monstro-da-ferrugem.md
           - Olho Tirano: manual-de-criaturas/monstros/olho-tirano.md
           - Perfurador: manual-de-criaturas/monstros/perfurador.md
