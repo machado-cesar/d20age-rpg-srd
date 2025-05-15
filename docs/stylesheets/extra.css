@@ -1,0 +1,15 @@
+.md-content__inner {
+    box-shadow: 0 4px 16px rgba(0, 0, 0, 0.2);
+    border-radius: 2px;
+    padding: 1rem;
+    /* background: #fff8dc; */
+
+    /* background-image: repeating-linear-gradient(
+    to bottom,
+    #ffffff,
+    #ffffff 28px,
+    #e8f0fa 29px,
+    #ffffff 30px
+  ); */
+
+}

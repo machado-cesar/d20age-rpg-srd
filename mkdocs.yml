@@ -231,14 +231,25 @@ theme:
       toggle:
         icon: material/weather-night
         name: Modo Escuro
-      primary: teal
+      primary: deep purple
       accent: purple
     - scheme: slate
       toggle:
         icon: material/white-balance-sunny
         name: Modo Claro
-      primary: teal
-      accent: lime
+      primary: deep purple
+      accent: purple
+  font:
+    text: Open Sans
+    # text: Rancho
+  #   code: Rancho
+  # text: Courgette
+  # text: Sofia
+  # text: Redressed
+  # text: Caveat
+
+extra_css:
+  - stylesheets/extra.css
 
 extra:
   social:
