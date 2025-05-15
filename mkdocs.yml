@@ -214,7 +214,7 @@ nav:
           - Verme Púrpura: manual-de-criaturas/monstros/verme-purpura.md
 theme:
   name: material
-  logo: assets/d20agelogo.png
+  logo: assets/d20agelogobranco.png
   features:
     - navigation.tabs
     - navigation.tabs.sticky
