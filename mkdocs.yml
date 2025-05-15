@@ -240,7 +240,7 @@ theme:
       primary: deep purple
       accent: purple
   font:
-    text: Open Sans
+    # text: Open Sans
     # text: Rancho
   #   code: Rancho
   # text: Courgette
