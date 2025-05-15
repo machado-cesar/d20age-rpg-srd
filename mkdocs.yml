@@ -214,6 +214,7 @@ nav:
           - Verme Púrpura: manual-de-criaturas/monstros/verme-purpura.md
 theme:
   name: material
+  logo: assets/d20agelogo.png
   features:
     - navigation.tabs
     - navigation.tabs.sticky
@@ -231,14 +232,18 @@ theme:
       toggle:
         icon: material/weather-night
         name: Modo Escuro
-      primary: deep purple
-      accent: purple
+      # primary: deep purple
+      primary: custom
+      # accent: purple
+      accent: custom
     - scheme: slate
       toggle:
         icon: material/white-balance-sunny
         name: Modo Claro
-      primary: deep purple
-      accent: purple
+      # primary: deep purple
+      primary: custom
+      # accent: purple
+      accent: custom
   font:
     # text: Open Sans
     # text: Rancho
