@@ -2,6 +2,9 @@
 
 Esta seção consiste em uma estrutura de equipamentos clássicos, com uma lista organizada em miscelâneas e utensílios, para permitir uma distribuição objetiva no cálculo de carga. Esta lista está ordenada sob o preço em peça de ouro (po), que vale dez vezes a peça de prata (pp) ou cem vezes a peça de cobre (pc).
 
+> **NOTA**  
+> A proposta é que se crie uma tabela customizada para seu cenário de jogo.
+
 **Equipamento inicial:** 3d6 x 10 po
 
 Personagens iniciantes devem montar sua lista de equipamentos, que corresponde a seus itens para o começo do jogo.

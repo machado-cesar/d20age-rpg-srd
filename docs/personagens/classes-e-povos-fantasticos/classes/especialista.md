@@ -27,7 +27,7 @@ Em cada nível especialistas aprendem uma perícia nova. Isso pode ser abstraíd
 | 3   | Arma      | 8   | Idioma       |
 | 4   | Decifrar  | 9   | Punga        |
 | 5   | Escalar   | 10  | Sobressaltar |
-[Descrições](descricoes-das-pericias.md).
+[Descrições](../descricoes-das-pericias.md).
 
 ---
 

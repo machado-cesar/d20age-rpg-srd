@@ -55,7 +55,7 @@ A cada dois níveis gnomos aprendem uma perícia nova. Isso pode ser abstraído 
 | 3   | Arma      | 8   | Idioma       |
 | 4   | Decifrar  | 9   | Punga        |
 | 5   | Escalar   | 10  | Sobressaltar |
-[Descrições](../personagens/descricoes-das-pericias.md).
+[Descrições](../descricoes-das-pericias.md).
 
 ---
 
