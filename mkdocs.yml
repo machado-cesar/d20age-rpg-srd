@@ -212,6 +212,17 @@ nav:
           - Urso Coruja: manual-de-criaturas/monstros/urso-coruja.md
           - Verme Carniceiro: manual-de-criaturas/monstros/verme-carniceiro.md
           - Verme Púrpura: manual-de-criaturas/monstros/verme-purpura.md
+  - Tesouros:
+    - Introdução: tesouros/introducao.md
+    - Tesouro Carregado: tesouros/tesouro-carregado.md
+    - Tesouro em Covil: tesouros/tesouro-em-covil.md
+    - Itens Especiais: 
+      - Itens Especiais: tesouros/itens-especiais/itens-especiais.md
+      - Gemas e Joias: tesouros/itens-especiais/gemas-e-joias.md
+      - Poções, Pomadas e Óleos: tesouros/itens-especiais/pocoes-pomadas-e-oleos.md
+      - Miscelâneas: tesouros/itens-especiais/miscelaneas.md
+      - Armas, Armaduras e Escudos: tesouros/itens-especiais/armas-armaduras-e-escudos.md
+
 theme:
   name: material
   logo: assets/d20agelogobranco.png
