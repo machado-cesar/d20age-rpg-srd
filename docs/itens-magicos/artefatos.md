@@ -24,7 +24,7 @@ São relíquias raríssimas, sencientes. São objetos com fragmentos da consciê
 
 Esse tipo de item mágico concede poderes especiais além de seus normais, mas usá-los está carregado de riscos.
 
-### Ativando seus poderes
+#### Ativando seus poderes
 - **Na mão:** para usar seu poder, o objeto precisa estar nas mãos da pessoa.  
 - **Concentração:** demanda concentração.
 
@@ -62,7 +62,7 @@ O personagem passará a ser considerado NPC, sob comandos do artefato, com compo
 - **Rendição:** a um inimigo que o artefato considera mais digno de possuí-lo ou mais suscetível de ser controlado.  
 - **Indulgência:** fazer gastos luxuosos. (*ex.: adicionar joias, confeccionar um suporte ostentador*) O artefato forçará o gasto da maior parte de recursos com isso.
 
-### Finalizando o Controle
+#### Finalizando o Controle
 
 Uma vez sob controle, o artefato só deixará o comando quando a circunstância que desencadeou o lance de controle for encerrada ou o artefato se sentir satisfeito.
 
@@ -72,7 +72,7 @@ Uma vez sob controle, o artefato só deixará o comando quando a circunstância 
 
 É possível criar um propósito especial para o artefato ou gerar aleatoriamente:
 
-### Tabela: propósito especial
+#### Tabela: propósito especial
 
 | 1d6 | Propósito especial                            |
 | --- | --------------------------------------------- |
@@ -90,7 +90,7 @@ Uma vez sob controle, o artefato só deixará o comando quando a circunstância 
 Cada poder pode ser gerado com suporte da tabela a seguir (lance novamente para repetições).  
 **Usos:** caso não especificado, o uso é ilimitado.
 
-### Tabela: poder especial
+#### Tabela: poder especial
 
 | d100  | Poder especial                  |
 | ----- | ------------------------------- |
@@ -110,37 +110,37 @@ Cada poder pode ser gerado com suporte da tabela a seguir (lance novamente para 
 
 ## Poderes
 
-### Detectar Armadilhas
+#### Detectar Armadilhas
 Permite sentir a presença de armadilhas em 10’ (3x / dia)
 
 ---
 
-### Detectar Declives
+#### Detectar Declives
 Permite sentir inclinações no piso em até 10’
 
 ---
 
-### Detectar Gemas
+#### Detectar Gemas
 O artefato direciona para gemas em até 60’. Qualquer camada de chumbo bloqueia esse poder.
 
 ---
 
-### Detectar Magia
+#### Detectar Magia
 O artefato indica a presença de magia em até 20’, e pode-se concentrar para fazer este foco de magia brilhar (3x dia)
 
 ---
 
-### Detectar Metais
+#### Detectar Metais
 O artefato direciona para metais em até 60’. Qualquer camada de chumbo bloqueia esse poder.
 
 ---
 
-### Detectar Paredes Deslizantes
+#### Detectar Paredes Deslizantes
 O objeto avisa sobre mudanças em paredes em até 10’.
 
 ---
 
-### Detectar o Mal ou o Bem
+#### Detectar o Mal ou o Bem
 O artefato anuncia sobre intenção de forças com conexão ao caos ou ordem em até 20’.
 
 > **NOTA**  
@@ -148,12 +148,12 @@ O artefato anuncia sobre intenção de forças com conexão ao caos ou ordem em 
 
 ---
 
-### Localizar Portas Secretas
+#### Localizar Portas Secretas
 O objeto anuncia sobre portas secretas, como cofres ou portas escondidas, em até 10’ (3x / dia)
 
 ---
 
-### Ver Objetos Invisíveis
+#### Ver Objetos Invisíveis
 O objeto permite à pessoa que o use veja objetos invisíveis em até 10’.
 
 ---
@@ -166,7 +166,7 @@ Caso seja obtido o mesmo poder duas vezes, lance novamente o dado, salvo quando 
 
 - **Uso:** 3x / dia (salvo quando especificado)
 
-### Tabela: poder extraordinário
+#### Tabela: poder extraordinário
 
 | d100  | Poder Extraordinário           |
 | ----- | ------------------------------ |
@@ -190,19 +190,19 @@ Caso seja obtido o mesmo poder duas vezes, lance novamente o dado, salvo quando 
 
 ---
 
-### Clariaudiência
+#### Clariaudiência
 É preciso concentração por um turno, e assim é possível ouvir por meio de outra criatura, em até 60’.  
 Esse poder é bloqueado por qualquer camada de chumbo.
 
 ---
 
-### Clarividência
+#### Clarividência
 É preciso concentração por um turno, e assim é possível ver pelos olhos de outra criatura, em até 60’.  
 Esse poder é bloqueado por qualquer camada de chumbo.
 
 ---
 
-### Dano Extra
+#### Dano Extra
 Aumenta a força do portador durante 1d10 rodadas. Neste interím o dano causado é multiplicado por 4.
 
 - **Armas:** sorteie novamente para objetos não-armas.  
@@ -210,7 +210,7 @@ Aumenta a força do portador durante 1d10 rodadas. Neste interím o dano causado
 
 ---
 
-### Ilusão
+#### Ilusão
 
 O artefato pode manifestar uma ilusão do tipo “força fantasmagórica”.
 
@@ -234,22 +234,22 @@ Três tipos de ilusões podem ser criadas:
 
 ---
 
-### Levitação
+#### Levitação
 O objeto pode usar levitar (como magia) na pessoa, com duração de três turnos.
 
 ---
 
-### PES – Percepção Extrasensorial
+#### PES – Percepção Extrasensorial
 O artefato permite com que a pessoa use o efeito similar à magia PES–Percepção Extrasensorial.
 
-### Regeneração
+#### Regeneração
 Uma vez por dia o artefato confere regeneração de pontos de vida, na ordem de 1 por rodada, durante 6 rodadas.
 
 - **Resultados Duplicados:** a duração da regeneração é aumentada em 6 rodadas para cada resultado duplicado.
 
 ---
 
-### Telecinesia
+#### Telecinesia
 O artefato permite com que a pessoa use poder similar à magia telecinesia.
 
 ---
@@ -268,22 +268,22 @@ Chumbo bloqueia este poder.
 
 ---
 
-### Teletransporte
+#### Teletransporte
 O objeto permite o uso de um poder similar à magia porta dimensional.
 
 ---
 
-### Visão de Raios-X
+#### Visão de Raios-X
 O artefato permite a visão através de objetos sólidos, por concentração, que pode ser usado uma vez por turno (ainda dentro do limite de usos de artefatos) em camadas de até 30’ de materiais densos, como rochas, ou 60’ em materiais menos densos, como gelo ou tecidos.  
 Qualquer camada de chumbo bloqueia completamente este poder.  
 Investigações com esta visão revelam portas secretas ou armadilhas em uma área 10’x10’.
 
 ---
 
-### Voar
+#### Voar
 O artefato permite com que a pessoa voe, com efeito similar à magia voar.
 
 ---
 
-### Magia Superior
+#### Magia Superior
 O artefato permite com que a pessoa (arcanista de nível 9+) possa aprender, memorizar e conjurar uma magia de sexto círculo (sorteie).
