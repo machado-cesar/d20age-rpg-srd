@@ -1,3 +1,8 @@
+---
+hide:
+  - toc
+---
+
 # Onde encontrar o d20age RPG?
 
 ---
