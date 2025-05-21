@@ -231,10 +231,31 @@ nav:
       - Poções Mágicas: itens-magicos/pocoes-magicas.md
       - Armaduras e Escudos: itens-magicos/armaduras-e-escudos-magicos.md
       - Armas: itens-magicos/armas-magicas.md
-      - Implementos: itens-magicos/implementos.md 
+      - Implementos: itens-magicos/implementos.md
       - Miscelâneas: itens-magicos/miscelaneas-magicas.md
       - Anéis: itens-magicos/aneis.md
       - Artefatos: itens-magicos/artefatos.md
+  - Outros Parâmetros:
+      - Unidades Ficcionais: outros-parametros/unidades-ficcionais.md
+      - Alinhamento: outros-parametros/alinhamento.md
+      - Idiomas: outros-parametros/idiomas.md
+      - Experiência: outros-parametros/experiencia.md
+  - Jogabilidade:
+      - Regra Zero: jogabilidade/regra-zero.md
+      - TAC0: jogabilidade/tac0.md
+      - PV, DV e DANO: jogabilidade/pv-dv-e-dano.md
+      - Condições: jogabilidade/condicoes.md
+      - Recuperações ou Morte: jogabilidade/recuperacoes-ou-morte.md
+      - Salvaguarda: jogabilidade/salvaguarda.md
+      - Tempo em Jogo: jogabilidade/tempo-em-jogo.md
+      - Ação e Movimento: jogabilidade/acao-e-movimento.md
+      - Distâncias: jogabilidade/distancias.md
+      - Chances em 6: jogabilidade/chances-em-6.md
+      - Disputa de Dados: jogabilidade/disputa-de-dados.md
+      - Iluminação: jogabilidade/iluminacao.md
+      - Moral e Reação: jogabilidade/moral-e-reacao.md
+      - Carga e Deslocamento: jogabilidade/carga-e-deslocamento.md
+  - Links: links.md
 
 theme:
   name: material
@@ -282,6 +303,10 @@ extra_css:
 
 extra:
   social:
+    - icon: fontawesome/solid/pencil
+      link: https://www.caramelojogos.com.br/d20age-rpg-livro-base
+    - icon: fontawesome/solid/book
+      link: https://runasquirais.blogspot.com/
     - icon: fontawesome/brands/youtube
       link: https://www.youtube.com/@dmquiral5942
     - icon: fontawesome/brands/instagram
