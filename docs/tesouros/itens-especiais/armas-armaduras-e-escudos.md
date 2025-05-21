@@ -15,7 +15,7 @@
 | 11  | Ferro-frio (escudo)          | 1.000  |
 | 12  | Prata (arma)                 | x10    |
 
-\* preço multiplicado ao valor do item comum
+> \* preço multiplicado ao valor do item comum
 
 #### Adamantina
 Uma civilização antiga dominava a manipulação deste metal extraído de fragmentos meteóricos. Esse componente é quatro vezes mais resistente que ferro.

@@ -46,17 +46,9 @@ Neste material há exemplos de nomes, mas a orientação é que se use customiza
 
 Com a intenção de apresentar planilhas de criaturas enxutas e objetivas, foi feita a organização em “tipos”, o que facilita a gestão, por orientar melhor para habilidades gerais comuns à cada categoria. Em cada categoria contém exemplos de criaturas que podem ser usadas como base referencial para uso direto ou criação de outras. São elas: bestas, construtos, desmortos, dracônicos, extraplanares, feéricos, floranídeos, gigantes, humanoides e monstros.
 
-````
-Híbridos: Algumas criaturas pertencem haá mais de uma categoria, como gigantes, que
-também são humanoides. Essa organização foi colocada na forma que ele melhor se
-aloca e auxilie a arbitragem de jogo, como avaliar efeitos mágicos.
-````
-
-````
-Viventes: termo usado para seres vivos. Criaturas não viventes, como desmortos,
-são imunes a diversos efeitos, como, por exemplo: fome, frio, sede, venenos e
-encantmentos (ex.: sono). Há um registro em cada tipo de criatura.
-````
+> **NOTAS**  
+> **Híbridos:** Algumas criaturas pertencem haá mais de uma categoria, como gigantes, que também são humanoides. Essa organização foi colocada na forma que ele melhor se aloca e auxilie a arbitragem de jogo, como avaliar efeitos mágicos.  
+> **Viventes:** termo usado para seres vivos. Criaturas não viventes, como desmortos, são imunes a diversos efeitos, como, por exemplo: fome, frio, sede, venenos e encantmentos (ex.: sono). Há um registro em cada tipo de criatura.
 
 ### Tamanho (X)
 
@@ -122,15 +114,9 @@ A TAC0 das criaturas possui base 19, e melhora na ordem de DV-1 para até 10 DV.
   
 Entre colchetes vem registrando o Bônus de Ataque (opcional).
 
-````
-Criaturas que possuem 1/2 DV até 1 são consideradas 
-como 1 DV, e menor do que isso como “zero”.
-````
-
-````
-Criaturas com bônus no DV, como “2+2”, por exemplo, 
-são consideradas como DV superior (neste caso, 3).
-````
+> **NOTA**  
+> **1.** Criaturas que possuem 1/2 DV até 1 são consideradas como 1 DV, e menor do que isso como “zero”.  
+> **2.** Criaturas com bônus no DV, como “2+2”, por exemplo, são consideradas como DV superior (neste caso, 3).
 
 ### Movimento (MV)
 
@@ -190,15 +176,9 @@ Esse é um valor abstrato que pode ser explorado das mais variadas formas. Na pr
 | 17-20+ | 2.000 | 1.150    |
 | 21-21+ | 2.500 | 2.000    |
 
-````
-Poderes especiais relevantes são registrados com 
-um asterisco ao lado do DV de criaturas.
-````
-
-````
-Para criaturas com DV superior a 21
-adicione 250 XP à base e bônus.
-````
+> **NOTA**  
+> **1.** Poderes especiais relevantes são registrados com um asterisco ao lado do DV de criaturas.  
+> **2.** Para criaturas com DV superior a 21 adicione 250 XP à base e bônus.
 
 ### Número de Aparecimentos (NA)
 

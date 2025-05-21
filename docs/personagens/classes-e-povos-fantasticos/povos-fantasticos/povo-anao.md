@@ -5,10 +5,10 @@
 
 Humanoides que possuem estatura média pouco mais que uma cabeça menor que humanos (4’), de corpo robusto e com ombros largos, de pele terrosa e grossa. Vivem em regiões montanhosas, habituados a permanecerem em pequenos grupos, conhecidos como clãs. São famosos por sua habilidade com mineração, e possuem grande afinidade com ferramentas. Até onde se sabe não têm apreço ou aptidão com magia.
 
-➤ **Tamanho:** médio (M)  
-➤ **Movimento:** 30’  
-➤ **Carga:** só sofre penalidade quando em sobrecarga.  
-➤ **Idiomas:** comum e anão
+- **Tamanho:** médio (M)  
+- **Movimento:** 30’  
+- **Carga:** só sofre penalidade quando em sobrecarga.  
+- **Idiomas:** comum e anão
 
 ---
 
@@ -27,7 +27,7 @@ Reflete dons ou traços transmitidos ao longo de gerações, como heranças marc
 
 ---
 
-## Tabela de progressão
+## Tabela de Progressão
 
 **Salvaguardas**
 **[M]** Morte; **[C]** Contato; **[P]** Paralisia; **[I]** Irrupção; **[F]** Feitiço

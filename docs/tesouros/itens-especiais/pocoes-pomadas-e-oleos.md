@@ -2,9 +2,8 @@
 
 Por meio da arte da alquimia é possível criar variadas formulações de misteriosos efeitos. Muitas delas possuem aroma ou sabor característico, mas nem sempre seu conteúdo é de simples revelação, pois parte dessa arte envolve mascarar segredos com aromas e flavorizantes diferentes em cada nova dose.
 
-````
-Para carga, considere miscelânea
-````
+> **NOTA**  
+> Para carga, considere miscelânea
 
 | d10 | Poções Mundanas    | po  |
 | --- | ------------------ | --- |

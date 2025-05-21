@@ -9,4 +9,6 @@ hide:
 **Alcance:** 120’  
 **Alvo:** objeto ou criatura  
 
-Permite mover 400 cn / nível na velocidade de 20’ por rodada. Criaturas podem ser paralisadas ou levantadas (SV-P para resistir), mas caso resistam não anulam a magia, que se mantém pela duração ou quebra da concentração.
+Permite mover 400 cn / nível na velocidade de 20’ por rodada. 
+
+Criaturas podem ser paralisadas ou levantadas (SV-P para resistir), mas caso resistam não anulam a magia, que se mantém pela duração ou quebra da concentração.

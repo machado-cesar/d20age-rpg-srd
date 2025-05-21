@@ -6,4 +6,4 @@ Não é necessário quebrar a dinâmica em busca da “regra certa”, desde que
 
 Para ilustrar, cito um exemplo: a chance de uma criatura ter sua visão prejudicada por uma brasa jogada contra seus olhos pode ser definida por um ataque ou salvaguarda. Ambas as arbitragens serão igualmente assertivas, desde que essa proposta seja apresentada de forma clara e tenha respaldo na ficção.
 
-Isso funciona muito bem quando usada na forma de uma **arbitragem dialética**, apresentada no capítulo: **Oficina de DM** do livro completo, encontrado [aqui]().
+Isso funciona muito bem quando usada na forma de uma **arbitragem dialética**, apresentada no capítulo: **Oficina de DM** do livro completo, encontrado [aqui](https://www.caramelojogos.com.br/d20age-rpg-livro-base).

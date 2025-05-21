@@ -46,4 +46,6 @@ Dispara grandes pedras ou um recipientecom piche flamejante.
   
 ---
 
-**Modificadores:** podem ser aplicados para interferentes, como condições climáticas ou manobrabilidade.
+## Modificadores
+
+Podem ser aplicados para interferentes, como condições climáticas ou manobrabilidade.

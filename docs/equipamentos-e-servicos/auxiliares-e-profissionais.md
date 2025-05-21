@@ -14,10 +14,9 @@ Ao longo do jogo, personagens podem procurar por ajuda em aventuras, como algué
 **Auxiliar:** faz serviços genéricos e simples, (ex.: carregar equipamentos) pelo valor de 5 pp por dia e um quarto da parte do tesouro.  
 **Profissionais:** fazem serviços complexos (ex.: guarda-costas) pelo valor de 1 po por dia e uma parte do tesouro.
 
-````
-Parte do tesouro: correspondente a uma fração de divisão igual. 
-Se o grupo tem cinco personagens, 20% (um quinto) do tesouro corresponde a uma parte (ou fração).
-````
+> **Nota**  
+> Parte do tesouro: correspondente a uma fração de divisão igual.  
+> Se o grupo tem cinco personagens, 20% (um quinto) do tesouro corresponde a uma parte (ou fração).
 
 ---
 

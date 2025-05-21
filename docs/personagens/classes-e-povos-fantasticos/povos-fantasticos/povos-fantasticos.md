@@ -7,12 +7,8 @@ hide:
 
 Povos fantásticos como opção de jogo permitem uma degustação da fantasia clássica na projeção ficcional, com potencial acréscimo da diversidade do universo fantástico, o que permitirá experenciar sua cultura e habilidades. Neste material apresentamos, de forma simplificada, três alternativas (opcionais), para jogo: povo anão, povo elfo e povo gnomo.
 
-````
-Considere como exemplares para aventuras em um mundo em que humanos são a
-maioria. No pano de fundo do d20age RPG esses povos místicos estão em decadência
-em um mundo moribundo, ou simplesmente evitam se misturar com humanos. Sinta-se
-livre para fazer qualquer alteração desta proposta.
-````
+> **NOTA**  
+> Considere como exemplares para aventuras em um mundo em que humanos são a maioria. No pano de fundo do d20age RPG esses povos místicos estão em decadênciaem um mundo moribundo, ou simplesmente evitam se misturar com humanos. Sinta-se livre para fazer qualquer alteração desta proposta.
 
 ---
 

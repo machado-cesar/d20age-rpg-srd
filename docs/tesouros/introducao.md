@@ -2,7 +2,7 @@
 
 Moedas raras, gemas, joias, livros antigos, bebidas exóticas ou relíquias, há mais do que de ouro perdido por aí.
 
-Neste estilo de jogo, como descrito no capítulo “EXPERIÊNCIA”, a busca por tesouros funciona como efeito motor, correlacionado com capacidade de carga, o que influencia em diversas  decisões de jogo. Por isso tesouros são registrados com sua carga e preço (por orientação). A taxa de conversão usa a peça de ouro (po) como referência base, de acordo com a tabela a seguir. Para demais tesouros (não moedas), há uma sugestão de valor, registrada entre parênteses.
+Neste estilo de jogo, como descrito na seção [Experiência](../outros-parametros/experiencia.md), a busca por tesouros funciona como efeito motor, correlacionado com capacidade de carga, o que influencia em diversas  decisões de jogo. Por isso tesouros são registrados com sua carga e preço (por orientação). A taxa de conversão usa a peça de ouro (po) como referência base, de acordo com a tabela a seguir. Para demais tesouros (não moedas), há uma sugestão de valor, registrada entre parênteses.
 
 ## Taxa de Conversão
 

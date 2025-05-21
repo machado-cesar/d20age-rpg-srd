@@ -8,9 +8,9 @@ Humanos e similares.
 
 - [Centauro](centauro.md)
 
-- [Duendes](duendes.md)
-- [Duendes](duendes.md)
-- [Duendes](duendes.md)
+- [Duendes](duendes.md/#duende-verde-p)
+- [Duendes](duendes.md/#duende-macabro-m)
+- [Duendes](duendes.md/#duende-rei-g)
 
 - [Elfo](elfo.md)
 
@@ -24,7 +24,7 @@ Humanos e similares.
 
 - [Troglodita](troglodita.md)
 
-- [Arcanista](veteranos.md)
-- [Combatente](veteranos.md)
-- [Especialista](veteranos.md)
-- [Magista](veteranos.md)
+- [Arcanista](veteranos.md/#arcanista-humano-m)
+- [Combatente](veteranos.md/#combatente-humano-m)
+- [Especialista](veteranos.md/#especialista-humano-m)
+- [Magista](veteranos.md/#magista-humano-m)

@@ -10,12 +10,12 @@
 
 Vivem em comunidades em bosques ou florestas. Possuem estatura média igual à metade de humanos (3’), e por isso podem ser chamados de pequeninos ou miudinhos. São levemente rechonchudos, possuem uma fina camada de pelos sobre o corpo, com maior proeminência nos pés, que são tão rígidos que funcionam como botas de couro.
 
-➤ **Tamanho**: pequeno (P, pesa 800 cn)  
-➤ **Movimento**: 30’  
-➤ **Carga**: máximo 800 cn (média)  
-➤ **Idiomas**: comum e gnomo  
-➤ **CA**: 1 melhor (tamanho)  
-➤ **Alimentação**: como de humano
+- **Tamanho**: pequeno (P, pesa 800 cn)  
+- **Movimento**: 30’  
+- **Carga**: máximo 800 cn (média)  
+- **Idiomas**: comum e gnomo  
+- **CA**: 1 melhor (tamanho)  
+- **Alimentação**: como de humano
 
 ---
 
@@ -43,10 +43,10 @@ Reflete dons ou traços transmitidos ao longo de gerações, como heranças marc
 ## Perícias
 Há uma série de habilidades assumidas como treinamento básico de personagens, como, por exemplo: nadar, montar a cavalo ou acender uma tocha. Porém, existem algumas habilidades que são bem mais específicas, como escalar por superfícies irregulares sem uso de equipamentos ou ser capaz de fazer uma leitura labial durante uma conversa no fundo de uma taberna. No quadro abaixo há uma lista, com registro de dez exemplos clássicos de perícias, que podem ser sorteadas ou escolhidas.
 
-### Aprendendo novas perícias
+### Aprendendo Novas Perícias
 A cada dois níveis gnomos aprendem uma perícia nova. Isso pode ser abstraído como parte do aprendizado de classe ou melhor desenvolvido durante a aventura, caso deseje maior profundidade, com modelos de custo e dedicação de tempo. Esta lista contém exemplos clássicos, mas outras perícias podem ser desenvolvidas de maneiras análogas.
 
-### Lista de perícias
+### Lista de Perícias
 
 | d10 | Perícia   | d10 | Perícia      |
 | --- | --------- | --- | ------------ |
@@ -55,11 +55,12 @@ A cada dois níveis gnomos aprendem uma perícia nova. Isso pode ser abstraído 
 | 3   | Arma      | 8   | Idioma       |
 | 4   | Decifrar  | 9   | Punga        |
 | 5   | Escalar   | 10  | Sobressaltar |
-[Descrições](../descricoes-das-pericias.md).
+
+> [Descrições das Perícias](../descricoes-das-pericias.md).
 
 ---
 
-## Tabela de progressão
+## Tabela de Progressão
 
 **Salvaguardas**
 **[M]** Morte; **[C]** Contato; **[P]** Paralisia; **[I]** Irrupção; **[F]** Feitiço

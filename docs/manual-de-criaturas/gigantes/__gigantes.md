@@ -4,12 +4,12 @@ Diversos humanoides mais antigos e maiores que humanos, como ogros e trols são 
 
 - [Ettin](ettin.md)
 
-- [Gigante da Colina](gigantes.md)
-- [Gigante do Fogo ](gigantes.md)
-- [Gigante do Gelo ](gigantes.md)
-- [Gigante das Nuvens ](gigantes.md)
-- [Gigante de Pedra](gigantes.md)
-- [Gigante das Tempestades](gigantes.md)
+- [Gigante da Colina](gigantes.md/#gigante-da-colina-g)
+- [Gigante do Fogo ](gigantes.md/#gigante-do-fogo-e)
+- [Gigante do Gelo ](gigantes.md/#gigante-do-gelo-e)
+- [Gigante das Nuvens ](gigantes.md/#gigante-das-nuvens-e)
+- [Gigante de Pedra](gigantes.md/#gigante-de-pedra-g)
+- [Gigante das Tempestades](gigantes.md/#gigante-das-tempestades-e)
 
 - [Ogro](ogro.md)
 

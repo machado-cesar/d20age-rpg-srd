@@ -304,9 +304,9 @@ extra_css:
 extra:
   social:
     - icon: fontawesome/solid/pencil
-      link: https://www.caramelojogos.com.br/d20age-rpg-livro-base
-    - icon: fontawesome/solid/book
       link: https://runasquirais.blogspot.com/
+    - icon: fontawesome/solid/book
+      link: https://www.caramelojogos.com.br/d20age-rpg-livro-base
     - icon: fontawesome/brands/youtube
       link: https://www.youtube.com/@dmquiral5942
     - icon: fontawesome/brands/instagram

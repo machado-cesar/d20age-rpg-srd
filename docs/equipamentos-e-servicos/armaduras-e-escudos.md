@@ -15,7 +15,8 @@ hide:
 | **Pesada**       | Segmentada    | 100        | 4 [15] | 500 |
 |                  | Couraça       | 200        | 3 [16] | 600 |
 | **Adicional**    | Escudo        | 10         | +1\*   | 100 |
-\*Melhora a CA em 1
+
+> \*Melhora a CA em 1
 
 ## Parâmetros gerais
 

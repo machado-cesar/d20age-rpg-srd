@@ -14,8 +14,8 @@
 |               | Carroça        |        | 8.000   | 1x cavalo*           | 20’**     | 9 [10] | 15  |
 |               | Carruagem      | 800    | 25.000  | 2x cavalos*          | 20’**     | 8 [11] | 20  | 
 
-\* Considere que 2x mulas substituem 1x cavalo de tração.  
-\*\* O movimento é dobrado em carga leve (até metade da carga) ou quando dobra-se os animais.
+> \* Considere que 2x mulas substituem 1x cavalo de tração.  
+> \*\* O movimento é dobrado em carga leve (até metade da carga) ou quando dobra-se os animais.
 
 ---
 
@@ -25,17 +25,16 @@
 
 **Canoa:** feita de madeira, couro e lona, movida a remos (pesa 500 cn).  
 **Jangada:** feita de troncos de madeira e cordas (10’x10’), movida à remos.  
+
+> **Nota**  
+> É possível construir uma jangada improvisada (10’x10’), com material e tempo suficiente, em 1d3 dias.
+
 **Barco fluvial:** remado ou empurrado com varas. Um teto pode ser adicionado por 1.000 po.  
 **Barco a vela:** pequeno, usado para pesca em lagos ou águas costeiras.  
 **Galé a remos:** navio longo com calado raso, movido a remos.  
 **Galé a vela:** navio longo com calado raso e um mastro com vela quadrada.  
 **Galé de guerra:** embarcação para batalha, dois mastros, aríete e convés sobre os remadores.  
 **Nau: embarcação** de mar aberto, dois mastros, grande porte.  
-
-```
-    É possível construir uma jangada improvisada (10’x10’), 
-    com material e tempo suficiente, em 1d3 dias.
-```  
 
 ### Terrestres
 

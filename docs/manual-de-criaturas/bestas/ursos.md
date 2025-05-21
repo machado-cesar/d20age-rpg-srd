@@ -9,6 +9,14 @@ Mamíferos carnívoros encontrados em uma variedade de habitats, desde florestas
 
 ---
 
+### Urso Atroz (G)
+
+**CA:** 5 [14]; **DV:** 7 (31 PV) **Atq:** 2x garras (1d8 + abraço), 1x mordida (2d6);  
+**TAC0:** 13 [+6] **MV:** 40’; **SV:** 11; **ML:** 9  
+**Al:** N; **Id:** - **XP:** 450; **NA:** 1d2 (1d2); **TT:** -
+
+---
+
 ### Urso Negro (M)
 
 **CA:** 6 [13]; **DV:** 4 (18 PV) **Atq:** 2x garras (1d3 + abraço), 1x mordida (1d6);  
@@ -34,11 +42,3 @@ Mamíferos carnívoros encontrados em uma variedade de habitats, desde florestas
 **Al:** N; **Id:** - **XP:** 275; **NA:** 1 (1d2); **TT:** -
 
 - Deslocamento: nadam e andam sobre a neve sem penalidade de movimento.
-
----
-
-### Urso Atroz (G)
-
-**CA:** 5 [14]; **DV:** 7 (31 PV) **Atq:** 2x garras (1d8 + abraço), 1x mordida (2d6);  
-**TAC0:** 13 [+6] **MV:** 40’; **SV:** 11; **ML:** 9  
-**Al:** N; **Id:** - **XP:** 450; **NA:** 1d2 (1d2); **TT:** -

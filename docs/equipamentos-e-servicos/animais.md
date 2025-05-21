@@ -21,6 +21,6 @@ Na criação de personagem a escolha de uma companhia animal é uma possibilidad
 | **Adicional** | Alforge***          | 10 po  |
 |               | Sela                | 10 po  |
 
-\*Considere que animais pequenos se alimentam como humanos, médios o dobro e grandes o quádruplo.  
-\*\*Podem usar armaduras. A de cão possui mesmo preço da tabela, a de cavalo o dobro do custo e peso.  
-\*\*\*Capacidade de carga de duas mochilas.
+> \*Considere que animais pequenos se alimentam como humanos, médios o dobro e grandes o quádruplo.  
+> \*\*Podem usar armaduras. A de cão possui mesmo preço da tabela, a de cavalo o dobro do custo e peso.  
+> \*\*\*Capacidade de carga de duas mochilas.

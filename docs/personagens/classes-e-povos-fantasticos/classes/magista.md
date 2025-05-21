@@ -25,13 +25,13 @@ Conjura magias como arcanista.
 
 
 
-### Falha arcana
+### Falha Arcana
 
 Pelo treinamento, armaduras não interferem na conjuração (ver em arcanista para detalhes).
 
 
 
-### Magia oculta
+### Magia Oculta
 
 Trata-se de uma magia (escolhida ou sorteada) vinculada a um implemento arcano, também chamado de “símbolo sagrado”. Por meio deste item é possível converter espontaneamente, durante a conjuração, qualquer magia memorizada em sua magia oculta.
 
@@ -46,7 +46,7 @@ Trata-se de uma magia (escolhida ou sorteada) vinculada a um implemento arcano, 
 
 ---
 
-## Tabelas de progressão
+## Tabelas de Progressão
 
 **Salvaguardas**
 **[M]** Morte; **[C]** Contato; **[P]** Paralisia; **[I]** Irrupção; **[F]** Feitiço
@@ -64,7 +64,7 @@ Trata-se de uma magia (escolhida ou sorteada) vinculada a um implemento arcano, 
 | 9     | 270.000 | 9d6  | 15 [+4] | 9   | 10  | 13  | 14  | 12  |
 | 10    | 400.000 | 10d6 | 14 [+5] | 7   | 8   | 10  | 12  | 11  |
 
-**Magias por nível por círculo**
+**Magias por Nível por Círculo**
 
 | Nível | 1º   | 2º  | 3º  | 4º  | 5º  |
 | ----- | ---- | --- | --- | --- | --- |
@@ -78,4 +78,5 @@ Trata-se de uma magia (escolhida ou sorteada) vinculada a um implemento arcano, 
 | 8     | 4+1* | 2   | 1   | -   | -   |
 | 9     | 5+1* | 2   | 1   | -   | -   |
 | 10    | 5+1* | 2   | 2   | -   | -   |
-\* magia oculta
+
+> \* magia oculta

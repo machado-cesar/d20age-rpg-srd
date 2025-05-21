@@ -17,12 +17,12 @@ Inicia com uma magia da lista de primeiro círculo, transcrita em runas em um ob
 ### Conjuração
 Conjurar uma magia memorizada demanda, como padrão, componentes somáticos (gesticulações) e verbais (entonações), o que exige concentração por cerca de dez segundos (uma rodada). Uma vez conjurada, a magia é dissipada da mente.
 
-### Falha mágica
+### Falha Mágica
 Há situações que podem fugir do harmônico controle da arcana, o que gera uma ruptura entrópica. Sofrer ferimentos ou falhar em salvaguarda durante o processo de uma conjuração resultará em falha mágica. Mas há situações intermediárias, como tentar conjurar uma magia mais poderosa ou sob um cerco com várias criaturas pressionando e atacando. Nestes casos, considera-se magia arriscada, com chance de falha mágica. A definição é avaliada por SV-F, onde o sucesso resulta no funcionamento normal da magia, mas o insucesso resultará em falha na conjuração e perda da magia.
 
 ---
 
-## Tabelas de progressão
+## Tabelas de Progressão
 
 **Salvaguardas**
 **[M]** Morte; **[C]** Contato; **[P]** Paralisia; **[I]** Irrupção; **[F]** Feitiço
@@ -41,7 +41,7 @@ Há situações que podem fugir do harmônico controle da arcana, o que gera uma
 | 10    | 450.000 | 10d4 | 16 [+3] | 9   | 10  | 11  | 12  | 9   |
 
 
-**Magias por nível por círculo**
+**Magias por Nível por Círculo**
 
 | Nível | 1º  | 2º  | 3º  | 4º  | 5º  |
 | ----- | --- | --- | --- | --- | --- |

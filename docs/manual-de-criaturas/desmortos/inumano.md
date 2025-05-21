@@ -2,7 +2,7 @@
 
 Humanoide morto-vivo possuído por um espírito sinistro.
 
-**CA:** 5 [14]; **DV:** 3* (13 PV); **Atq:** 1x toque (dreno vital);  
+**CA:** 5 [14]; **DV:** 3\* (13 PV); **Atq:** 1x toque (dreno vital);  
 **TAC0:** 17 [+2]; **MV:** 30’; **SV:** 15; **ML:** 12;  
 **Al:** C; **CG:** SR; **Id:** comum; **XP:** 50; **NA:** 1d6 (1d8); **TT:** B
 

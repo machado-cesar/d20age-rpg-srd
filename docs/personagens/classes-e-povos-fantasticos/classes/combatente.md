@@ -23,7 +23,7 @@ Pode-se atacar criaturas adjacentes entre si (ou qualquer alvo no entorno, no ca
 
 ---
 
-## Tabela de progressão
+## Tabela de Progressão
 
 **Salvaguardas**
 **[M]** Morte; **[C]** Contato; **[P]** Paralisia; **[I]** Irrupção; **[F]** Feitiço

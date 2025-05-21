@@ -2,9 +2,13 @@
 
 Há mortais que praticam a manipulação dessa arte cheia de mistérios por meio de estudos, e se tornam capazes de memorizar e conjurar magia (ou arcana), que se consiste em aprisionar essa força na mente, para ser libertada sob seu desejo. Embora nenhuma magia seja considerada comum, algumas são razoavelmente controláveis, e são chamadas de magias de primeiro círculo. Há diversas outras magias, algumas ainda mais raras, e muitas que não passam de rumores e contos de fogueira. de uma forma geral, magias mais poderosas exigem uma energia mental ainda maior para serem compreendidas e memorizadas, e, por sua raridade, são vistas como tesouros.
 
+---
+
 ## Texto Arcano
 
 Cada arcanista desenvolve seu código próprio, indecifrável por pessoas comuns, mas que podem ser traduzidos por quem tenha conhecimento arcano, desde que domine o idioma usado, com tempo (e eventual custo) arbitrado caso a caso.
+
+---
 
 ## Implementos
 
@@ -17,6 +21,8 @@ São objetos de variados tipos, impregnados com uma fração desta energia antig
 | 3   | Cetro      | 7   | Punhal     |
 | 4   | Cordão     | 8   | Varinha    |
 
+---
+
 ## Magias Reversas
 
 Em tese, toda magia possui sua versão invertida. Isto significa que é possível memorizar a versão reversa de uma magia, gerando efeito oposto ao texto original. Caso prefira, trate magias reversas como novas magias.  
@@ -24,14 +30,16 @@ Em tese, toda magia possui sua versão invertida. Isto significa que é possíve
 - Exemplo 1: **Trevas (luz)**: cria uma área de 30’ de diâmetro de escuridão que bloqueia todo tipo de luz mundana.
 - Exemplo 2: **desaferrolhar (aferrolhar)**: destranca magicamente uma porta ou passagem similar.
 
-````
-Para conjurar um efeito reverso não memorizado, considere magia 
-arriscada.
-````
+> **Nota**  
+> Para conjurar um efeito reverso não memorizado, considere magia arriscada.
+
+---
 
 ## Grimório
 
 São livros confeccionados com papel do tipo pergaminho, o que possibilita colecionar diversas magias transcritas de variados implementos. O modelo mais comum possui 100 páginas, com cada magia transcrita em duas páginas por círculo.
+
+---
 
 ## Pesquisa Arcana
 
@@ -41,10 +49,8 @@ Arcanistas podem dedicar tempo e recursos à pesquisa mágica, o que permite apr
 
 Para dominar novas magias é preciso uma fonte, como um implemento ou pergaminho de magia. O domínio de uma magia nova possui uma série de procedimentos, como, por exemplo: preparar a mente para aprisionar a arcana, como por uso de poções especiais, bem como dominar sua conjuração, com treinamento da dicção e somatização. Também é preciso fazer a transcrição, que consiste na transferência desta energia mágica para seu implemento (ex.: grimório). Todos os ingredientes deste processo são chamados de componentes de magia, com parâmetro geral de preço e tempo na ordem de 1.000 po e uma semana por círculo mágico.
 
-````
-Há formulações raras ou fragmentadas quesó podem ser compreendidas 
-com uso de magia (ex.: leitura mágica).
-````
+> **Nota**  
+> Há formulações raras ou fragmentadas quesó podem ser compreendidas com uso de magia (ex.: leitura mágica).
 
 ### Criação de Magias
 
@@ -54,12 +60,12 @@ Roubar o canto de uma sereia ou dobrar o ar com a força de um elemental para le
 
 É possível transmitir a magia para um objeto ao invés da mente, por um processo chamado de “duplicação” arcana. Isso simula a memorização, feita em um item ao invés da mente, o que deixa a magia pronta para conjuração. Arcanistas possuem treinamento básico para criar pergaminhos e varinhas, cujo custo envolve uma porção de componentes de magia (use como parâmetro de preço/tempo 500 po e uma semana por círculo mágico). Para itens que replicam a magia múltiplas vezes (ex.: varinha com carga) o processo deve ser feito para cada carga. Para a conjuração de pergaminhos ou varinhas é necessário o uso do item concomitante, que consumirá uma carga (varinhas) ou será destruído em chamas (pergaminho).
 
-````
-Para criar poções, será preciso adquirir treinamento básico em 
-alquimia e dominar a formulação de seu efeito.
-````
+> **Nota**  
+> Para criar poções, será preciso adquirir treinamento básico em alquimia e dominar a formulação de seu efeito.
 
 Demais itens mágicos são considerados bem mais raros, alguns até únicos, pois são de uma complexa confecção, uma artificiaria já esquecida por mortais ou criados por antigas criaturas sobrenaturais.
+
+---
 
 ## Efeitos Mágicos
 
@@ -67,6 +73,8 @@ Demais itens mágicos são considerados bem mais raros, alguns até únicos, poi
 
 - Uso da magia **luz**: se alguém lançar essa magia diretamente no olho de uma criatura ela poderia cegá-la temporariamente? Caso isso seja possível ficcionalmente, uma SV-F pode ser usada, e a falha indica cegueira pela duração da magia. 
 - Uso da magia **disco arcano**: alguém pode querer subir no disco para flutuar sobre ele, evitando impacto de sua carga.
+
+---
 
 ## Marcas Arcanas
 
@@ -95,6 +103,8 @@ Quem é capaz de dominar as artes mágicas? O segredo seria treinar a mente ardu
 | 19   | Unhas de cristal: as unhas têm uma aparência cristalina.                            |
 | 20   | Voz melódica: a voz tem uma qualidade musical ou melódica.                          |
 
+---
+
 ## Corrupções
 
 A arcana (ou magia) é uma força sobrenatural de eras antigas. Durante a sua manipulação algumas coisas podem sair do controle, pois essa energia viva luta contra a dominação, buscando se libertar. Isso pode ser percebido por manifestações mágicas, chamadas também de corrupções, que resultam em efeitos permanentes. A tabela a seguir foi organizada em ordem de gravidade de efeito, e deve ser usada da seguinte forma:
@@ -112,9 +122,9 @@ A arcana (ou magia) é uma força sobrenatural de eras antigas. Durante a sua ma
 - Quando alguém rolar “20” em SV contra uma magia que você tenha conjurado
 - Outras situações avaliadas caso a caso
 
-````
-Outros dados podem ser usados para esta tabela de modo similar, como d4 ou d6
-````
+> **Nota**  
+> Outros dados podem ser usados para esta tabela de modo similar, como d4 ou d6
+
 
 | 1dX* | Corrupção*                                                                           |
 | ---- | ------------------------------------------------------------------------------------- |
@@ -149,4 +159,4 @@ Outros dados podem ser usados para esta tabela de modo similar, como d4 ou d6
 | 29   | sua pele se torna pegajosa e um de seus membros (sorteie 1d4) vira um tentáculo       |
 | 30   | surge algo monstruoso em seu corpo (1d3: 1-chifres, 2-pé de cabra, 3-rabo de lagarto) |
 
-\* caso o resultado seja incoerente, sorteie novamente
+> \* caso o resultado seja incoerente, sorteie novamente

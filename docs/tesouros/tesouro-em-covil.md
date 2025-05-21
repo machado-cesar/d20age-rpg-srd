@@ -9,12 +9,8 @@ Para determinar o tesouro existente em um covil é possível fazer um trabalho f
 - Para gemas, joias e itens mágicos, os procedimentos para determinar seu valor e propriedades estão registrados em suas áreas específicas.
 - Uma criatura que não possua código de registro de tesouro em letras tecnicamente não possui tesouro em covil.
 
-````
-Se o tesouro gerado aleatoriamente estiver 
-significativamente acima ou abaixo do valor 
-médio (registrado entre parênteses), faça 
-um ajuste adequado, caso deseje.
-````
+> **NOTA (ajuste manual)**  
+> Se o tesouro gerado aleatoriamente estiver significativamente acima ou abaixo do valor médio (registrado entre parênteses), faça um ajuste adequado, caso deseje.
 
 ### Tesouros em Covis / Tipo
 
@@ -147,11 +143,8 @@ um ajuste adequado, caso deseje.
 
 ---
 
-````
-É importante avaliar sempre a razão risco x benefício. 
-Grandes tesouros geralmente são acompanhados de 
-grandes riscos (e vice- versa).
-````
+> **NOTA**  
+> É importante avaliar sempre a razão risco x benefício. Grandes tesouros geralmente são acompanhados de grandes riscos (e vice- versa).
 
 ## Como Chavear Tesouros
 

@@ -7,22 +7,20 @@ hide:
 
 Personagens iniciantes podem escolher ou sortear uma magia na lista.
 
-````
-Estes nomes são simplificados para maior organização. 
-A ideia é que cada arcanista dê nomes customizados para suas magias.
-````
+> **Nota**  
+> Estes nomes são simplificados para maior organização.  
+> A ideia é que cada arcanista dê nomes customizados para suas magias.  
+> **Ex.** Aferrolhar pode ser "O Cadeado Mágico de Tazirian"
 
-Ex. Aferrolhar pode ser: o cadeado mágico de Tazirian
-
-| 1d20 | Magia            | 1d20 | Magia                 |
-| ---- | ---------------- | ---- | --------------------- |
-| 1    | Aferrolhar       | 11   | Flecha mágica         |
-| 2    | Alarme           | 12   | Heroísmo              |
-| 3    | Amarração        | 13   | Leitura mágica        |
-| 4    | Armadura mágica  | 14   | Luz                   |
-| 5    | Detectar magia   | 15   | Mãos flamejantes      |
-| 6    | Disco flutuante  | 16   | Patas de aranha       |
-| 7    | Escudo místico   | 17   | Proteção contra o mal |
-| 8    | Emaranhar        | 18   | Restauração           |
-| 9    | Encantar pessoas | 19   | Sono                  |
-| 10   | Exorcismo        | 20   | Ventriloquismo        |
+| 1d20 | Magia                                   | 1d20 | Magia                                             |
+| ---- | --------------------------------------- | ---- | ------------------------------------------------- |
+| 1    | [Aferrolhar](aferrolhar.md)             | 11   | [Flecha Mágica](flecha-magica.md)                 |
+| 2    | [Alarme](alarme.md)                     | 12   | [Heroísmo](heroismo.md)                           |
+| 3    | [Amarração](amarracao.md)               | 13   | [Leitura Mágica](leitura-magica.md)               |
+| 4    | [Armadura Mágica](armadura-magica.md)   | 14   | [Luz](luz.md)                                     |
+| 5    | [Detectar Magia](detectar-magia.md)     | 15   | [Mãos Flamejantes](maos-flamejantes.md)           |
+| 6    | [Disco Flutuante](disco-flutuante.md)   | 16   | [Patas de Aranha](patas-de-aranha.md)             |
+| 7    | [Escudo Místico](escudo-mistico.md)     | 17   | [Proteção Contra o Mal](protecao-contra-o-mal.md) |
+| 8    | [Emaranhar](emaranhar.md)               | 18   | [Restauração](restauracao.md)                     |
+| 9    | [Encantar Pessoas](encantar-pessoas.md) | 19   | [Sono](sono.md)                                   |
+| 10   | [Exorcismo](exorcismo.md)               | 20   | [Ventriloquismo](ventriloquismo.md)               |

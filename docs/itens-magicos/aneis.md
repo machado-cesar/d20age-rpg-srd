@@ -5,11 +5,11 @@ Houve uma era de forjadores, em que os segredos para construção desses artefat
 
 ## Parâmetros Gerais
 
-➤ **Uso:** qualquer pessoa pode usar, a não ser que especificado.
+- **Uso:** qualquer pessoa pode usar, a não ser que especificado.
 
-➤ **Efeito:** o efeito mágico de um anel é ativado colocando-o em um dos dedos, funciona de forma contínua (a menos que indicado de outra forma) e só é cessado se o anel for removido.
+- **Efeito:** o efeito mágico de um anel é ativado colocando-o em um dos dedos, funciona de forma contínua (a menos que indicado de outra forma) e só é cessado se o anel for removido.
 
-➤ **Múltiplos anéis:** considera-se o efeito mágico de um anel por mão. Se forem usados mais anéis mágicos, os seus efeitos se anulam (anéis amaldiçoados funcionam).
+- **Múltiplos anéis:** considera-se o efeito mágico de um anel por mão. Se forem usados mais anéis mágicos, os seus efeitos se anulam (anéis amaldiçoados funcionam).
 
 ## Descrições
 

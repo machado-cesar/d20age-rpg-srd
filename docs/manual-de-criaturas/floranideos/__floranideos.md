@@ -2,8 +2,8 @@
 
 Plantas, fungos e similares, incluindo criaturas sencientes destes tipos.
 
-- [Cogumelo Gritador](cogumelos.md)
-- [Cogumelo Violeta](cogumelos.md)
+- [Cogumelo Gritador](cogumelos.md/#cogumelo-gritador-p)
+- [Cogumelo Violeta](cogumelos.md/#cogumelo-violeta-m)
   
 - [Ente](ente.md)
   

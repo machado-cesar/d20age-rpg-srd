@@ -30,7 +30,7 @@ hide:
 | **Extra**              | Aljava             | 2   | 20  | —    | Armazena até 20 munições                   |
 |                        | Munições (20)      | 5   | —   | —    | Setas, flechas ou pedras (massa na aljava) |
 
-## Parâmetros gerais:
+## Parâmetros Gerais
 
 - Armas comuns possuem alcance de 5’, mas considere vantagens de alcance escalonado (maior sobre menor).
 - Arma improvisada causa 1d3 de dano e é frágil (quebra com facilidade).

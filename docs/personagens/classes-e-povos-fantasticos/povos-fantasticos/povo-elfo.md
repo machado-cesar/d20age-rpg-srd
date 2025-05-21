@@ -7,9 +7,9 @@
 
 Humanoides de origem feérica que vivem em pequenas comunidades em florestas. Possuem estatura média de 4’10’’, de orelhas pontiagudas em formas de folha, pele amadeirada, com os olhos e cabelos de cores incomuns e fortes.
 
-➤ **Tamanho**: médio (M)  
-➤ **Movimento**: 40’  
-➤ **Idiomas**: comum e elfo
+- **Tamanho**: médio (M)  
+- **Movimento**: 40’  
+- **Idiomas**: comum e elfo
 
 ---
 
@@ -17,15 +17,15 @@ Humanoides de origem feérica que vivem em pequenas comunidades em florestas. Po
 
 Iniciam com uma magia de primeiro círculo, que aprendem a memorizar e conjurar sem suporte de implemento (*ex.: por meditação*).
 
-### Memorização e conjuração
+### Memorização e Conjuração
 
 Memoriza e conjura como arcanista.
 
-### Falha arcana
+### Falha Arcana
 
 Pelo treinamento, armaduras não interferem na conjuração (ver arcanista para detalhes).
 
-### Novas magias
+### Novas Magias
 
 O processo de aprendizagem ocorre de maneira similar à de arcanista, mas com restrição de aprender apenas uma magia por nível. Embora precise do conteúdo novo (*ex.: implemento*) para capacitação, uma vez aprendida a magia, faz o processo de meditação para sua memorização.
 
@@ -46,7 +46,7 @@ Reflete dons ou traços transmitidos ao longo de gerações, como heranças marc
 
 ---
 
-## Tabelas de progressão
+## Tabelas de Progressão
 
 **Salvaguardas**
 **[M]** Morte; **[C]** Contato; **[P]** Paralisia; **[I]** Irrupção; **[F]** Feitiço
@@ -64,7 +64,7 @@ Reflete dons ou traços transmitidos ao longo de gerações, como heranças marc
 | 9     | 400.00  | 9d6  | 15 [+4] | 8   | 9   | 9   | 11  | 11  |
 | 10    | 600.000 | 10d6 | 14 [+5] | 6   | 7   | 7   | 9   | 9   |
 
-**Magias por nível por círculo**
+**Magias por Nível por Círculo**
 
 | Nível | 1º  | 2º  | 3º  | 4º  | 5º  |
 | ----- | --- | --- | --- | --- | --- |
